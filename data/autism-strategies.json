@@ -1,0 +1,516 @@
+{
+  "updatedAt": "2025-08-15",
+  "countries": [
+    {
+      "country": "Ireland",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Autism Innovation Strategy (policy, non-statutory)",
+      "year": 2023,
+      "scope": "national",
+      "summary": "Ireland has a national policy strategy on autism but no dedicated Autism Act. Rights and duties flow primarily from general equality, education and disability law; parts of the EPSEN Act 2004 remain uncommenced.",
+      "sources": []
+    },
+    {
+      "country": "United Kingdom (England)",
+      "region": "Europe",
+      "binding": true,
+      "instrumentTitle": "Autism Act 2009",
+      "year": 2009,
+      "scope": "national (England)",
+      "summary": "First disability-specific Act in England creating statutory duties on the Secretary of State and guidance duties on local authorities and NHS bodies for adult autism services.",
+      "sources": [
+        "https://www.legislation.gov.uk/ukpga/2009/15/contents"
+      ]
+    },
+    {
+      "country": "United Kingdom (Northern Ireland)",
+      "region": "Europe",
+      "binding": true,
+      "instrumentTitle": "Autism Act (Northern Ireland) 2011",
+      "year": 2011,
+      "scope": "devolved (Northern Ireland)",
+      "summary": "Places duties on departments to prepare, implement and review an autism strategy; recognises autism as a disability for the purposes of the Disability Discrimination Act 1995.",
+      "sources": [
+        "https://www.legislation.gov.uk/nia/2011/27/contents"
+      ]
+    },
+    {
+      "country": "United Kingdom (Wales)",
+      "region": "Europe",
+      "binding": true,
+      "instrumentTitle": "Autism Code of Practice for Wales (statutory guidance)",
+      "year": 2021,
+      "scope": "devolved (Wales)",
+      "summary": "Statutory Code of Practice under Welsh social services law placing duties on local authorities and health boards regarding autism support and planning.",
+      "sources": [
+        "https://www.gov.wales/autism-code-practice-wales-html"
+      ]
+    },
+    {
+      "country": "United Kingdom (Scotland)",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Scottish Strategy for Autism (policy)",
+      "year": 2011,
+      "scope": "devolved (Scotland)",
+      "summary": "National strategy and subsequent delivery plans; duties derive from general equality, education and social care legislation rather than an autism-specific act.",
+      "sources": [
+        "https://www.gov.scot/policies/disability/learning-disabilities-autism/"
+      ]
+    },
+    {
+      "country": "Italy",
+      "region": "Europe",
+      "binding": true,
+      "instrumentTitle": "Law 134/2015 (Provisions on autism spectrum disorders)",
+      "year": 2015,
+      "scope": "national",
+      "summary": "Establishes principles for care and social inclusion of people with autism; mandates guidelines and regional planning; recognises autism within essential levels of care.",
+      "sources": []
+    },
+    {
+      "country": "Malta",
+      "region": "Europe",
+      "binding": true,
+      "instrumentTitle": "Persons within the Autism Spectrum (Empowerment) Act",
+      "year": 2016,
+      "scope": "national",
+      "summary": "Rights-focused act providing for an Autism Advisory Council, action plans, and obligations on public bodies to promote inclusion and reasonable accommodation.",
+      "sources": [
+        "https://legislation.mt/eli/act/2016/XXI/eng"
+      ]
+    },
+    {
+      "country": "France",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Strategy for Autism and Neurodevelopmental Disorders 2023–2027",
+      "year": 2023,
+      "scope": "national",
+      "summary": "Comprehensive policy strategy with investment in diagnosis, education and inclusion; not an autism-specific statute. Legal duties flow from general disability law (Code de l’action sociale et des familles) and EU-derived obligations.",
+      "sources": [
+        "https://sante.gouv.fr/"
+      ]
+    },
+    {
+      "country": "Spain",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Strategy on Autism (policy)",
+      "year": 2015,
+      "scope": "national",
+      "summary": "Policy framework on autism; enforceable rights derive from general disability equality and education law and EU obligations.",
+      "sources": []
+    },
+    {
+      "country": "Brazil",
+      "region": "Americas",
+      "binding": true,
+      "instrumentTitle": "Law No. 12.764/2012 (Berenice Piana Law)",
+      "year": 2012,
+      "scope": "national",
+      "summary": "Defines autism as a disability for all legal purposes and establishes rights to health, education, social inclusion and protection from discrimination; provides penalties for violations.",
+      "sources": [
+        "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12764.htm"
+      ]
+    },
+    {
+      "country": "United States",
+      "region": "Americas",
+      "binding": true,
+      "instrumentTitle": "Autism CARES Act (funding, coordination); ADA & IDEA (rights)",
+      "year": 2019,
+      "scope": "federal",
+      "summary": "Autism CARES authorises autism research and services funding. Enforceable rights stem from the ADA (nondiscrimination, reasonable accommodation) and IDEA (special education).",
+      "sources": [
+        "https://www.congress.gov/bill/116th-congress/house-bill/1058",
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "country": "Australia",
+      "region": "Oceania",
+      "binding": false,
+      "instrumentTitle": "National Autism Strategy (policy)",
+      "year": 2024,
+      "scope": "national",
+      "summary": "Commonwealth strategy sets priorities across health, education and employment. Enforceable rights derive from the Disability Discrimination Act 1992 and NDIS Act.",
+      "sources": [
+        "https://www.dss.gov.au/"
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "region": "Oceania",
+      "binding": false,
+      "instrumentTitle": "New Zealand Autism Spectrum Disorder Guideline (policy)",
+      "year": 2016,
+      "scope": "national",
+      "summary": "Clinical and service guidance; enforceable rights derive from the Human Rights Act 1993 and disability strategy frameworks.",
+      "sources": [
+        "https://www.health.govt.nz/"
+      ]
+    },
+    {
+      "country": "Germany",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National/Regional plans (policy); Federal Participation Act (general)",
+      "year": 2016,
+      "scope": "national",
+      "summary": "No autism-specific act; rights flow from general disability law (Bundesteilhabegesetz) and Länder plans.",
+      "sources": []
+    },
+    {
+      "country": "Netherlands",
+      "region": "Europe",
+      "binding": false,
+  "instrumentTitle": "Action plans (policy); General Equal Treatment Act",
+  "year": 2003,
+      "scope": "national",
+      "summary": "No autism-specific statute; general equality and disability policy apply.",
+      "sources": []
+    },
+    {
+      "country": "Portugal",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National disability strategies (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "No autism-specific act identified; general disability legislation and EU obligations apply.",
+      "sources": []
+    },
+    {
+      "country": "Sweden",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Discrimination Act; disability policy (no autism-specific act)",
+      "year": 2009,
+      "scope": "national",
+      "summary": "General disability rights; autism addressed through health and education policy.",
+      "sources": []
+    },
+    {
+      "country": "Denmark",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Anti-discrimination and disability policy (no autism-specific act)",
+      "year": 2018,
+      "scope": "national",
+      "summary": "Autism addressed via general disability and education systems.",
+      "sources": []
+    },
+    {
+      "country": "Norway",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Equality and Anti-Discrimination Act (no autism-specific act)",
+      "year": 2018,
+      "scope": "national",
+      "summary": "General disability rights; autism addressed through services guidance.",
+      "sources": []
+    },
+    {
+      "country": "Poland",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Strategy for Persons with Disabilities 2021–2030 (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "No autism-specific act; general disability strategy and education law apply.",
+      "sources": []
+    },
+    {
+      "country": "Belgium",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Regional strategies; anti-discrimination laws (no autism-specific act)",
+      "year": 2007,
+      "scope": "federal/regional",
+      "summary": "Autism addressed via community/region policies and general equality law.",
+      "sources": []
+    },
+    {
+      "country": "Austria",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Disability Equality Act; Länder plans (no autism-specific act)",
+      "year": 2006,
+      "scope": "federal",
+      "summary": "General disability rights; autism addressed via health and education policy.",
+      "sources": []
+    },
+    {
+      "country": "Greece",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Action Plan for the Rights of Persons with Disabilities (policy)",
+      "year": 2020,
+      "scope": "national",
+      "summary": "No autism-specific act; general disability action plan applies.",
+      "sources": []
+    },
+    {
+      "country": "Romania",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Strategy on Rights of Persons with Disabilities (policy)",
+      "year": 2022,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Bulgaria",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "People with Disabilities Act; strategies (no autism-specific act)",
+      "year": 2018,
+      "scope": "national",
+      "summary": "General disability rights; autism addressed via policy.",
+      "sources": []
+    },
+    {
+      "country": "Czechia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Plan for the Rights of Persons with Disabilities (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "No autism-specific act; general framework applies.",
+      "sources": []
+    },
+    {
+      "country": "Slovakia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Strategy for Integration of Persons with Disabilities (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Slovenia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Equalisation of Opportunities for Persons with Disabilities Act; strategies",
+      "year": 2010,
+      "scope": "national",
+      "summary": "General disability rights; autism addressed via policy.",
+      "sources": []
+    },
+    {
+      "country": "Croatia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Strategy for Persons with Disabilities (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Hungary",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Act on the Rights of Persons with Disabilities; strategies",
+      "year": 1998,
+      "scope": "national",
+      "summary": "General disability law; no autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Finland",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Non-Discrimination Act; Disability Services Act (no autism-specific act)",
+      "year": 2015,
+      "scope": "national",
+      "summary": "Autism covered via general disability rights and services.",
+      "sources": []
+    },
+    {
+      "country": "Estonia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Welfare Development Plan; Equal Treatment Act",
+      "year": 2009,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Latvia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Guidelines for Equal Opportunities (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "No autism-specific statute identified.",
+      "sources": []
+    },
+    {
+      "country": "Lithuania",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Programme for Social Integration of Persons with Disabilities (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "No autism-specific statute identified.",
+      "sources": []
+    },
+    {
+      "country": "Cyprus",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Disability policy strategies (no autism-specific act)",
+      "year": 2020,
+      "scope": "national",
+      "summary": "General disability frameworks apply.",
+      "sources": []
+    },
+    {
+      "country": "Luxembourg",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Plan for the Rights of Persons with Disabilities (policy)",
+      "year": 2019,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Iceland",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Act on Services for Persons with Disabilities; strategies",
+      "year": 2018,
+      "scope": "national",
+      "summary": "No autism-specific statute identified.",
+      "sources": []
+    },
+    {
+      "country": "Switzerland",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Disability Discrimination Act; cantonal plans (no autism-specific act)",
+      "year": 2002,
+      "scope": "federal",
+      "summary": "Autism addressed via general disability protections.",
+      "sources": []
+    },
+    {
+      "country": "Turkey",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Law on Disabled Persons; strategies (no autism-specific act)",
+      "year": 2005,
+      "scope": "national",
+      "summary": "General disability frameworks apply; ECtHR case law on accessibility obligations relevant.",
+      "sources": []
+    },
+    {
+      "country": "Ukraine",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "National Strategy for Barrier-Free Environment (policy)",
+      "year": 2021,
+      "scope": "national",
+      "summary": "General disability strategies; no autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Serbia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Law on Prevention of Discrimination Against Persons with Disabilities; strategies",
+      "year": 2006,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Entity-level disability strategies (policy)",
+      "year": 2020,
+      "scope": "entity/cantonal",
+      "summary": "No autism-specific national act identified.",
+      "sources": []
+    },
+    {
+      "country": "North Macedonia",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Strategy for Equal Rights of Persons with Disabilities (policy)",
+      "year": 2023,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Montenegro",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Law on Prohibition of Discrimination Against Persons with Disabilities; strategies",
+      "year": 2015,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Albania",
+      "region": "Europe",
+      "binding": false,
+      "instrumentTitle": "Law on Inclusion and Accessibility of Persons with Disabilities; strategies",
+      "year": 2014,
+      "scope": "national",
+      "summary": "No autism-specific act identified.",
+      "sources": []
+    },
+    {
+      "country": "Ghana",
+      "region": "Africa",
+      "binding": true,
+      "instrumentTitle": "Persons with Disability Act, 2006 (general)",
+      "year": 2006,
+      "scope": "national",
+      "summary": "General disability rights; no autism-specific national act identified.",
+      "sources": []
+    },
+    {
+      "country": "Kenya",
+      "region": "Africa",
+      "binding": true,
+      "instrumentTitle": "Persons with Disabilities Act, 2003 (general)",
+      "year": 2003,
+      "scope": "national",
+      "summary": "General disability rights; no autism-specific national act identified.",
+      "sources": []
+    },
+    {
+      "country": "Nigeria",
+      "region": "Africa",
+      "binding": true,
+      "instrumentTitle": "Discrimination Against Persons with Disabilities (Prohibition) Act, 2018 (general)",
+      "year": 2018,
+      "scope": "national",
+      "summary": "General disability rights; autism-specific policy is emerging but no national autism act identified.",
+      "sources": []
+    },
+    {
+      "country": "South Africa",
+      "region": "Africa",
+      "binding": true,
+      "instrumentTitle": "Promotion of Equality Act; White Paper on the Rights of Persons with Disabilities (general)",
+      "year": 2016,
+      "scope": "national",
+      "summary": "General disability rights; no autism-specific national act identified.",
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,7220 @@
+[
+  {
+    "id": 1001,
+    "title": "Autism Reading Materials (WHO)",
+    "description": "World Health Organization resources on autism for families and professionals.",
+    "category": "Reading & Literacy",
+    "country": "Global",
+    "rating": 4.6,
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": true,
+    "website": "https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": [
+      "WHO",
+      "guides",
+      "information"
+    ]
+  },
+  {
+    "id": 1002,
+    "title": "TouchChat HD",
+    "description": "Comprehensive AAC app with word prediction and phrase storage for individuals with autism and communication challenges.",
+    "category": "Communication",
+    "country": "USA",
+    "rating": 4.7,
+    "price": "$149.99",
+    "platforms": [
+      "iOS"
+    ],
+    "ageGroup": "Children, Teens, Adults",
+    "researchBacked": true,
+    "website": "https://www.prentrom.com/support",
+    "imageUrl": "/images/programs/sausage-dog-02.jpg",
+    "featured": true,
+    "tags": [
+      "AAC",
+      "communication",
+      "word prediction",
+      "autism"
+    ]
+  },
+  {
+    "id": 1003,
+    "title": "Avaz AAC",
+    "description": "Picture and text-based communication app designed for non-verbal individuals with autism.",
+    "category": "Communication",
+    "country": "India",
+    "rating": 4.5,
+    "price": "$79.99",
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "ageGroup": "Children, Teens, Adults",
+    "researchBacked": true,
+    "website": "https://www.avazapp.com",
+    "imageUrl": "/images/programs/sausage-dog-03.jpg",
+    "featured": false,
+    "tags": [
+      "AAC",
+      "communication",
+      "pictures",
+      "non-verbal"
+    ]
+  },
+  {
+    "id": 1004,
+    "title": "ISAAC Communication",
+    "description": "International Society for Augmentative and Alternative Communication resources and training materials.",
+    "category": "Communication",
+    "country": "Global",
+    "rating": 4.8,
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "Professionals, Therapists",
+    "researchBacked": true,
+    "website": "https://www.isaac-online.org",
+    "imageUrl": "/images/programs/sausage-dog-04.jpg",
+    "featured": true,
+    "tags": [
+      "ISAAC",
+      "AAC",
+      "training",
+      "professional"
+    ]
+  },
+  {
+    "id": 1005,
+    "title": "Pictello",
+    "description": "Story creation app using pictures, text, and audio for individuals with autism to practice communication.",
+    "category": "Communication",
+    "country": "USA",
+    "rating": 4.6,
+    "price": "$18.99",
+    "platforms": [
+      "iOS"
+    ],
+    "ageGroup": "Children, Teens",
+    "researchBacked": true,
+    "website": "https://www.assistiveware.com/products/pictello",
+    "imageUrl": "/images/programs/sausage-dog-05.jpg",
+    "featured": false,
+    "tags": [
+      "stories",
+      "communication",
+      "pictures",
+      "autism"
+    ]
+  },
+  {
+    "id": 1006,
+    "title": "Zones of Regulation",
+    "description": "Self-regulation curriculum helping individuals identify emotions and develop coping strategies.",
+    "category": "Social Skills",
+    "country": "USA",
+    "rating": 4.9,
+    "price": "$29.99",
+    "platforms": [
+      "iOS",
+      "Web"
+    ],
+    "ageGroup": "Children, Teens",
+    "researchBacked": true,
+    "website": "https://www.zonesofregulation.com",
+    "imageUrl": "/images/programs/sausage-dog-06.jpg",
+    "featured": true,
+    "tags": [
+      "zones",
+      "regulation",
+      "emotions",
+      "self-control"
+    ]
+  },
+  {
+    "id": 1007,
+    "title": "Superflexr",
+    "description": "Social thinking app teaching flexible thinking and problem-solving skills for autism.",
+    "category": "Social Skills",
+    "country": "USA",
+    "rating": 4.4,
+    "price": "$9.99",
+    "platforms": [
+      "iOS"
+    ],
+    "ageGroup": "Children, Teens",
+    "researchBacked": true,
+    "website": "https://www.socialthinking.com/Products/Superflex-Products",
+    "imageUrl": "/images/programs/sausage-dog-07.jpg",
+    "featured": false,
+    "tags": [
+      "flexible thinking",
+      "social skills",
+      "problem solving",
+      "autism"
+    ]
+  },
+  {
+    "id": 1008,
+    "title": "Model Me Going Places",
+    "description": "Video modeling app showing appropriate behavior in various community settings.",
+    "category": "Social Skills",
+    "country": "USA",
+    "rating": 4.3,
+    "price": "$49.99",
+    "platforms": [
+      "iOS"
+    ],
+    "ageGroup": "Children, Teens",
+    "researchBacked": true,
+    "website": "https://modelmekids.com/app/",
+    "imageUrl": "/images/programs/sausage-dog-08.jpg",
+    "featured": false,
+    "tags": [
+      "video modeling",
+      "community skills",
+      "behavior",
+      "autism"
+    ]
+  },
+  {
+    "id": 1009,
+    "title": "Social Stories Creator",
+    "description": "Tool for creating personalized social stories to teach appropriate social responses.",
+    "category": "Social Skills",
+    "country": "USA",
+    "rating": 4.5,
+    "price": "$9.99",
+    "platforms": [
+      "iOS"
+    ],
+    "ageGroup": "Children, Teens",
+    "researchBacked": true,
+    "website": "https://apps.apple.com/app/social-stories-creator/id588180598",
+    "imageUrl": "/images/programs/sausage-dog-09.jpg",
+    "featured": true,
+    "tags": [
+      "social stories",
+      "personalized",
+      "social responses",
+      "autism"
+    ]
+  },
+  {
+    "id": 1010,
+    "title": "Focus Keeper",
+    "description": "Pomodoro technique timer app with customizable work and break intervals.",
+    "category": "Focus & Time Management",
+    "country": "Global",
+    "rating": 4.4,
+    "price": "Free",
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": false,
+    "website": "https://apps.apple.com/app/focus-keeper/id867374917",
+    "imageUrl": "/images/programs/sausage-dog-10.jpg",
+    "featured": false,
+    "tags": [
+      "pomodoro",
+      "focus",
+      "timer",
+      "productivity"
+    ]
+  },
+  {
+    "id": 1011,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1012,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1013,
+    "title": "Cdc Gov",
+    "description": "Cdc Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.cdc.gov/ncbddd/autism/index.html",
+    "imageUrl": "/images/programs/cdc-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1014,
+    "title": "Nih Gov",
+    "description": "Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nichd.nih.gov/health/topics/autism",
+    "imageUrl": "/images/programs/nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1015,
+    "title": "Who Int",
+    "description": "Who Int — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders",
+    "imageUrl": "/images/programs/who-int.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1016,
+    "title": "Nimh Nih Gov",
+    "description": "Nimh Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd",
+    "imageUrl": "/images/programs/nimh-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1017,
+    "title": "Understood",
+    "description": "Understood — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.understood.org/",
+    "imageUrl": "/images/programs/understood.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1018,
+    "title": "Chadd",
+    "description": "Chadd — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://chadd.org/",
+    "imageUrl": "/images/programs/chadd.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1019,
+    "title": "Additudemag",
+    "description": "Additudemag — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.additudemag.com/",
+    "imageUrl": "/images/programs/additudemag.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1020,
+    "title": "Childmind",
+    "description": "Childmind — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://childmind.org/topics/concerns/autism/",
+    "imageUrl": "/images/programs/childmind.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1021,
+    "title": "Spectrumnews",
+    "description": "Spectrumnews — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.spectrumnews.org/",
+    "imageUrl": "/images/programs/spectrumnews.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1022,
+    "title": "Icdl",
+    "description": "Icdl — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.icdl.com/",
+    "imageUrl": "/images/programs/icdl.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1023,
+    "title": "Autism-society",
+    "description": "Autism-society — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autismsociety.org/",
+    "imageUrl": "/images/programs/autism-society.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1024,
+    "title": "Autistica Uk",
+    "description": "Autistica Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autistica.org.uk/",
+    "imageUrl": "/images/programs/autistica-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1025,
+    "title": "Autismsa Au",
+    "description": "Autismsa Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismsa.org.au/",
+    "imageUrl": "/images/programs/autismsa-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1026,
+    "title": "Autismontario",
+    "description": "Autismontario — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismontario.com/",
+    "imageUrl": "/images/programs/autismontario.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1027,
+    "title": "Autism",
+    "description": "Autism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org/",
+    "imageUrl": "/images/programs/autism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1028,
+    "title": "Asan Ie",
+    "description": "Asan Ie — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://asiam.ie/",
+    "imageUrl": "/images/programs/asan-ie.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1029,
+    "title": "Asan",
+    "description": "Asan — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autisticadvocacy.org/",
+    "imageUrl": "/images/programs/asan.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1030,
+    "title": "Neurodiversityhub",
+    "description": "Neurodiversityhub — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://neurodiversityhub.org/",
+    "imageUrl": "/images/programs/neurodiversityhub.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1031,
+    "title": "Autismeducationtrust Uk",
+    "description": "Autismeducationtrust Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismeducationtrust.org.uk/",
+    "imageUrl": "/images/programs/autismeducationtrust-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1032,
+    "title": "Nationalautismcenter",
+    "description": "Nationalautismcenter — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nationalautismcenter.org/",
+    "imageUrl": "/images/programs/nationalautismcenter.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1033,
+    "title": "Appliedbehavioranalysisprograms",
+    "description": "Appliedbehavioranalysisprograms — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.appliedbehavioranalysisprograms.com/",
+    "imageUrl": "/images/programs/appliedbehavioranalysisprograms.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1034,
+    "title": "Autismparentingmagazine",
+    "description": "Autismparentingmagazine — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismparentingmagazine.com/",
+    "imageUrl": "/images/programs/autismparentingmagazine.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1035,
+    "title": "Autismnow",
+    "description": "Autismnow — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismnow.org/",
+    "imageUrl": "/images/programs/autismnow.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1036,
+    "title": "Autism-services",
+    "description": "Autism-services — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismservices.ca/",
+    "imageUrl": "/images/programs/autism-services.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1037,
+    "title": "Researchautism",
+    "description": "Researchautism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://researchautism.org/",
+    "imageUrl": "/images/programs/researchautism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1038,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/autism-treatment",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1039,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/autism-statistics-asd",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1040,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1041,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/what-is-autism",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1042,
+    "title": "Autism",
+    "description": "Autism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org/resources",
+    "imageUrl": "/images/programs/autism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1043,
+    "title": "Ncbi Nlm Nih Gov",
+    "description": "Ncbi Nlm Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.ncbi.nlm.nih.gov/pmc/?term=autism",
+    "imageUrl": "/images/programs/ncbi-nlm-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1044,
+    "title": "Eric Ed Gov",
+    "description": "Eric Ed Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://eric.ed.gov/?q=autism",
+    "imageUrl": "/images/programs/eric-ed-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1045,
+    "title": "Scholar Google",
+    "description": "Scholar Google — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://scholar.google.com/scholar?q=autism",
+    "imageUrl": "/images/programs/scholar-google.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1046,
+    "title": "Sciencedirect",
+    "description": "Sciencedirect — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.sciencedirect.com/topics/medicine-and-dentistry/autism",
+    "imageUrl": "/images/programs/sciencedirect.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1047,
+    "title": "Frontiersin",
+    "description": "Frontiersin — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.frontiersin.org/",
+    "imageUrl": "/images/programs/frontiersin.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1048,
+    "title": "Tandfonline",
+    "description": "Tandfonline — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.tandfonline.com/toc/taca20/current",
+    "imageUrl": "/images/programs/tandfonline.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1049,
+    "title": "Journals Sagepub",
+    "description": "Journals Sagepub — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://journals.sagepub.com/home/aut",
+    "imageUrl": "/images/programs/journals-sagepub.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1050,
+    "title": "Apa",
+    "description": "Apa — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.apa.org/topics/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/apa.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1051,
+    "title": "Verywellhealth",
+    "description": "Verywellhealth — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.verywellhealth.com/autism-4014748",
+    "imageUrl": "/images/programs/verywellhealth.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1052,
+    "title": "Psychologytoday",
+    "description": "Psychologytoday — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.psychologytoday.com/us/basics/autism",
+    "imageUrl": "/images/programs/psychologytoday.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1053,
+    "title": "Raisingchildren Au",
+    "description": "Raisingchildren Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://raisingchildren.net.au/autism",
+    "imageUrl": "/images/programs/raisingchildren-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1054,
+    "title": "Kidshealth",
+    "description": "Kidshealth — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://kidshealth.org/",
+    "imageUrl": "/images/programs/kidshealth.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1055,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/science",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1056,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/autism-family-services",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1057,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/autism-apps",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1058,
+    "title": "Aane",
+    "description": "Aane — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aane.org/resources/",
+    "imageUrl": "/images/programs/aane.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1059,
+    "title": "Autism-home",
+    "description": "Autism-home — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismempowerment.org/",
+    "imageUrl": "/images/programs/autism-home.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1060,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/directory",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1061,
+    "title": "Autismempowerment",
+    "description": "Autismempowerment — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismempowerment.org/",
+    "imageUrl": "/images/programs/autismempowerment.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1062,
+    "title": "Autism-society",
+    "description": "Autism-society — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://autismsociety.org/local-support",
+    "imageUrl": "/images/programs/autism-society.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1063,
+    "title": "Afirm Fpg Unc Edu",
+    "description": "Afirm Fpg Unc Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://afirm.fpg.unc.edu/",
+    "imageUrl": "/images/programs/afirm-fpg-unc-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1064,
+    "title": "Autismnavigator",
+    "description": "Autismnavigator — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autismnavigator.com/",
+    "imageUrl": "/images/programs/autismnavigator.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1065,
+    "title": "Autism",
+    "description": "Autism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org/what-is-autism/",
+    "imageUrl": "/images/programs/autism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1066,
+    "title": "Autism",
+    "description": "Autism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org/strategies/",
+    "imageUrl": "/images/programs/autism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1067,
+    "title": "Autism",
+    "description": "Autism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org/",
+    "imageUrl": "/images/programs/autism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1068,
+    "title": "Childmind",
+    "description": "Childmind — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://childmind.org/topics/concerns/adhd/",
+    "imageUrl": "/images/programs/childmind.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1069,
+    "title": "Cdc Gov",
+    "description": "Cdc Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.cdc.gov/ncbddd/adhd/index.html",
+    "imageUrl": "/images/programs/cdc-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1070,
+    "title": "Nimh Nih Gov",
+    "description": "Nimh Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd",
+    "imageUrl": "/images/programs/nimh-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1071,
+    "title": "Who Int",
+    "description": "Who Int — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.who.int/health-topics/mental-health#tab=tab_1",
+    "imageUrl": "/images/programs/who-int.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1072,
+    "title": "Nhs Uk",
+    "description": "Nhs Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nhs.uk/conditions/autism/",
+    "imageUrl": "/images/programs/nhs-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1073,
+    "title": "Hse Ie",
+    "description": "Hse Ie — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.hse.ie/eng/services/list/4/disability/",
+    "imageUrl": "/images/programs/hse-ie.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1074,
+    "title": "Gov Uk",
+    "description": "Gov Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.gov.uk/search/all?keywords=autism",
+    "imageUrl": "/images/programs/gov-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1075,
+    "title": "Health Gov Au",
+    "description": "Health Gov Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.health.gov.au/topics/disability",
+    "imageUrl": "/images/programs/health-gov-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1076,
+    "title": "Health Govt Nz",
+    "description": "Health Govt Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.health.govt.nz/",
+    "imageUrl": "/images/programs/health-govt-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1077,
+    "title": "Healthdirect Gov Au",
+    "description": "Healthdirect Gov Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.healthdirect.gov.au/autism",
+    "imageUrl": "/images/programs/healthdirect-gov-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1078,
+    "title": "Canada Ca",
+    "description": "Canada Ca — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.canada.ca/en/public-health/services/diseases/autism-spectrum-disorder-asd.html",
+    "imageUrl": "/images/programs/canada-ca.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1079,
+    "title": "Healthychildren",
+    "description": "Healthychildren — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://healthychildren.org/English/health-issues/conditions/Autism/Pages/default.aspx",
+    "imageUrl": "/images/programs/healthychildren.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1080,
+    "title": "Aacap",
+    "description": "Aacap — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aacap.org/",
+    "imageUrl": "/images/programs/aacap.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1081,
+    "title": "Nice Uk",
+    "description": "Nice Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nice.org.uk/guidance/cg170",
+    "imageUrl": "/images/programs/nice-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1082,
+    "title": "Nice Uk",
+    "description": "Nice Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nice.org.uk/guidance/cg142",
+    "imageUrl": "/images/programs/nice-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1083,
+    "title": "Unicef",
+    "description": "Unicef — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.unicef.org/",
+    "imageUrl": "/images/programs/unicef.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1084,
+    "title": "Autismeurope",
+    "description": "Autismeurope — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismeurope.org/",
+    "imageUrl": "/images/programs/autismeurope.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1085,
+    "title": "Autismcanada",
+    "description": "Autismcanada — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismcanada.org/",
+    "imageUrl": "/images/programs/autismcanada.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1086,
+    "title": "Autism Nz",
+    "description": "Autism Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.nz/",
+    "imageUrl": "/images/programs/autism-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1087,
+    "title": "Autismcrc Au",
+    "description": "Autismcrc Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismcrc.com.au/",
+    "imageUrl": "/images/programs/autismcrc-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1088,
+    "title": "Autismqld Au",
+    "description": "Autismqld Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismqld.com.au/",
+    "imageUrl": "/images/programs/autismqld-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1089,
+    "title": "Autism Sg",
+    "description": "Autism Sg — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.sg/",
+    "imageUrl": "/images/programs/autism-sg.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1090,
+    "title": "Autismresourcecentre Sg",
+    "description": "Autismresourcecentre Sg — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismresourcecentre.sg/",
+    "imageUrl": "/images/programs/autismresourcecentre-sg.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1091,
+    "title": "Seattlechildrens",
+    "description": "Seattlechildrens — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.seattlechildrens.org/clinics/autism-center/",
+    "imageUrl": "/images/programs/seattlechildrens.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1092,
+    "title": "Childrenshospital",
+    "description": "Childrenshospital — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.childrenshospital.org/programs/autism-spectrum-center",
+    "imageUrl": "/images/programs/childrenshospital.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1093,
+    "title": "Chop Edu",
+    "description": "Chop Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.chop.edu/conditions-diseases/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/chop-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1094,
+    "title": "Mayoclinic",
+    "description": "Mayoclinic — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/mayoclinic.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1095,
+    "title": "My Clevelandclinic",
+    "description": "My Clevelandclinic — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://my.clevelandclinic.org/health/diseases/autism",
+    "imageUrl": "/images/programs/my-clevelandclinic.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1096,
+    "title": "Stanfordchildrens",
+    "description": "Stanfordchildrens — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.stanfordchildrens.org/en/service/autism-and-developmental-disabilities-center",
+    "imageUrl": "/images/programs/stanfordchildrens.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1097,
+    "title": "Hopkinsmedicine",
+    "description": "Hopkinsmedicine — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/autism",
+    "imageUrl": "/images/programs/hopkinsmedicine.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1098,
+    "title": "Massgeneral",
+    "description": "Massgeneral — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.massgeneral.org/psychiatry/conditions-and-treatments/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/massgeneral.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1099,
+    "title": "Medlineplus Gov",
+    "description": "Medlineplus Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://medlineplus.gov/autismspectrumdisorder.html",
+    "imageUrl": "/images/programs/medlineplus-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1100,
+    "title": "Cdc Gov",
+    "description": "Cdc Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.cdc.gov/ncbddd/autism/index.html",
+    "imageUrl": "/images/programs/cdc-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1101,
+    "title": "Cdc Gov",
+    "description": "Cdc Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.cdc.gov/ncbddd/autism/index.html",
+    "imageUrl": "/images/programs/cdc-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1102,
+    "title": "Cdc Gov",
+    "description": "Cdc Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.cdc.gov/ncbddd/autism/index.html",
+    "imageUrl": "/images/programs/cdc-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1103,
+    "title": "Nichd Nih Gov",
+    "description": "Nichd Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.nichd.nih.gov/health/topics/autism",
+    "imageUrl": "/images/programs/nichd-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1104,
+    "title": "Nichd Nih Gov",
+    "description": "Nichd Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.nichd.nih.gov/health/topics/autism",
+    "imageUrl": "/images/programs/nichd-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1105,
+    "title": "Nichd Nih Gov",
+    "description": "Nichd Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.nichd.nih.gov/health/topics/autism",
+    "imageUrl": "/images/programs/nichd-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1106,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/tool-kits",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1107,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/autism-response-team-art",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1108,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/advocacy",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1109,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/social-life/social-communication",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1110,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/behaviour",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1111,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/mental-health",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1112,
+    "title": "Autismeducationtrust Uk",
+    "description": "Autismeducationtrust Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismeducationtrust.org.uk/resources/",
+    "imageUrl": "/images/programs/autismeducationtrust-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1113,
+    "title": "Autismontario",
+    "description": "Autismontario — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismontario.com/programs-services",
+    "imageUrl": "/images/programs/autismontario.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1114,
+    "title": "Autistica Uk",
+    "description": "Autistica Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autistica.org.uk/our-research",
+    "imageUrl": "/images/programs/autistica-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1115,
+    "title": "Raisingchildren Au",
+    "description": "Raisingchildren Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://raisingchildren.net.au/autism/therapies-guide",
+    "imageUrl": "/images/programs/raisingchildren-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1116,
+    "title": "Raisingchildren Au",
+    "description": "Raisingchildren Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://raisingchildren.net.au/autism/behaviour",
+    "imageUrl": "/images/programs/raisingchildren-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1117,
+    "title": "Kidshealth",
+    "description": "Kidshealth — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://kidshealth.org/en/parents/centers/center.html",
+    "imageUrl": "/images/programs/kidshealth.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1118,
+    "title": "Chop Edu",
+    "description": "Chop Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.research.chop.edu/center-for-autism-research",
+    "imageUrl": "/images/programs/chop-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1119,
+    "title": "Seattlechildrens",
+    "description": "Seattlechildrens — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.seattlechildrens.org/clinics/autism-center/patient-family-resources/",
+    "imageUrl": "/images/programs/seattlechildrens.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1120,
+    "title": "Mayoclinic",
+    "description": "Mayoclinic — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder/symptoms-causes",
+    "imageUrl": "/images/programs/mayoclinic.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1121,
+    "title": "Autismsciencefoundation",
+    "description": "Autismsciencefoundation — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismsciencefoundation.org/",
+    "imageUrl": "/images/programs/autismsciencefoundation.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1122,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/what-we-do/our-research",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1123,
+    "title": "Autismcanada",
+    "description": "Autismcanada — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.autismcanada.org/acresources",
+    "imageUrl": "/images/programs/autismcanada.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1124,
+    "title": "Autismcrc Au",
+    "description": "Autismcrc Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.autismcrc.com.au/knowledge-centre",
+    "imageUrl": "/images/programs/autismcrc-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1125,
+    "title": "Autismnz Nz",
+    "description": "Autismnz Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismnz.org.nz/",
+    "imageUrl": "/images/programs/autismnz-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1126,
+    "title": "Autismawareness Au",
+    "description": "Autismawareness Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismawareness.com.au/",
+    "imageUrl": "/images/programs/autismawareness-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1127,
+    "title": "Widgit",
+    "description": "Widgit — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.widgit.com/resources/index.htm",
+    "imageUrl": "/images/programs/widgit.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1128,
+    "title": "Talkingmats",
+    "description": "Talkingmats — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.talkingmats.com/resources/",
+    "imageUrl": "/images/programs/talkingmats.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1129,
+    "title": "Callscotland Uk",
+    "description": "Callscotland Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.callscotland.org.uk/",
+    "imageUrl": "/images/programs/callscotland-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1130,
+    "title": "Communicationmatters Uk",
+    "description": "Communicationmatters Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.communicationmatters.org.uk/resources/",
+    "imageUrl": "/images/programs/communicationmatters-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1131,
+    "title": "Setbc",
+    "description": "Setbc — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.setbc.org/resources/",
+    "imageUrl": "/images/programs/setbc.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1132,
+    "title": "Atia",
+    "description": "Atia — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.atia.org/at-resources/",
+    "imageUrl": "/images/programs/atia.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1133,
+    "title": "Prentrom",
+    "description": "Prentrom — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.prentrom.com/support",
+    "imageUrl": "/images/programs/prentrom.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1134,
+    "title": "Thinksmartbox",
+    "description": "Thinksmartbox — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://thinksmartbox.com",
+    "imageUrl": "/images/programs/thinksmartbox.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1135,
+    "title": "Assistiveware",
+    "description": "Assistiveware — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.assistiveware.com/resources",
+    "imageUrl": "/images/programs/assistiveware.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1136,
+    "title": "Saltsoftware",
+    "description": "Saltsoftware — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://saltsoftware.com/resources",
+    "imageUrl": "/images/programs/saltsoftware.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1137,
+    "title": "Autismpdc Fpg Unc Edu",
+    "description": "Autismpdc Fpg Unc Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://afirm.fpg.unc.edu/afirm-modules",
+    "imageUrl": "/images/programs/autismpdc-fpg-unc-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1138,
+    "title": "Afirm Fpg Unc Edu",
+    "description": "Afirm Fpg Unc Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://afirm.fpg.unc.edu/afirm-modules",
+    "imageUrl": "/images/programs/afirm-fpg-unc-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1139,
+    "title": "Cochranelibrary",
+    "description": "Cochranelibrary — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.cochrane.org/evidence",
+    "imageUrl": "/images/programs/cochranelibrary.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1140,
+    "title": "Iacc Hhs Gov",
+    "description": "Iacc Hhs Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://iacc.hhs.gov/publications/strategic-plan/",
+    "imageUrl": "/images/programs/iacc-hhs-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1141,
+    "title": "Sfari",
+    "description": "Sfari — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.sfari.org/funding/",
+    "imageUrl": "/images/programs/sfari.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1142,
+    "title": "Sparkforautism",
+    "description": "Sparkforautism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://sparkforautism.org/discover/",
+    "imageUrl": "/images/programs/sparkforautism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1143,
+    "title": "Autismawarenesscentre",
+    "description": "Autismawarenesscentre — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismawarenesscentre.com/resources/",
+    "imageUrl": "/images/programs/autismawarenesscentre.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1144,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/directory/a-z",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1145,
+    "title": "Neurodiversityhub",
+    "description": "Neurodiversityhub — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://neurodiversityhub.org/resources",
+    "imageUrl": "/images/programs/neurodiversityhub.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1146,
+    "title": "Ed Gov",
+    "description": "Ed Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://sites.ed.gov/idea/",
+    "imageUrl": "/images/programs/ed-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1147,
+    "title": "Destinationautism",
+    "description": "Destinationautism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.destinationautism.org/ (Destination Autism - verify)",
+    "imageUrl": "/images/programs/destinationautism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1148,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/education",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1149,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/independent-living",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1150,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/diagnosis",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1151,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/health",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1152,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/sensory-differences",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1153,
+    "title": "Autism Uk",
+    "description": "Autism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.uk/advice-and-guidance/topics/mental-health/anxiety",
+    "imageUrl": "/images/programs/autism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1154,
+    "title": "Healthychildren",
+    "description": "Healthychildren — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://healthychildren.org/English/health-issues/conditions/Autism/Pages/default.aspx",
+    "imageUrl": "/images/programs/healthychildren.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1155,
+    "title": "Healthychildren",
+    "description": "Healthychildren — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://healthychildren.org/English/health-issues/conditions/Autism/Pages/default.aspx",
+    "imageUrl": "/images/programs/healthychildren.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1156,
+    "title": "Autism Sg",
+    "description": "Autism Sg — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.sg/living-with-autism",
+    "imageUrl": "/images/programs/autism-sg.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1157,
+    "title": "Autism Sg",
+    "description": "Autism Sg — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.autism.org.sg/living-with-autism",
+    "imageUrl": "/images/programs/autism-sg.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1158,
+    "title": "Autism Sg",
+    "description": "Autism Sg — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.autism.org.sg/living-with-autism",
+    "imageUrl": "/images/programs/autism-sg.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1159,
+    "title": "Uclahealth",
+    "description": "Uclahealth — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.semel.ucla.edu/initiatives/ucla-center-for-autism-research-and-treatment",
+    "imageUrl": "/images/programs/uclahealth.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1160,
+    "title": "Semel Ucla Edu",
+    "description": "Semel Ucla Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.semel.ucla.edu/initiatives/ucla-center-for-autism-research-and-treatment",
+    "imageUrl": "/images/programs/semel-ucla-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1161,
+    "title": "Health Ucdavis Edu",
+    "description": "Health Ucdavis Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://health.ucdavis.edu/mindinstitute/",
+    "imageUrl": "/images/programs/health-ucdavis-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1162,
+    "title": "Autismcenter Ucsf Edu",
+    "description": "Autismcenter Ucsf Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.ucsfhealth.org/clinics/autism-center",
+    "imageUrl": "/images/programs/autismcenter-ucsf-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1163,
+    "title": "Neurosciences Ucsd Edu",
+    "description": "Neurosciences Ucsd Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://neurosciences.ucsd.edu/centers-programs/autism/index.html",
+    "imageUrl": "/images/programs/neurosciences-ucsd-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1164,
+    "title": "Autismcenter Duke Edu",
+    "description": "Autismcenter Duke Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autismcenter.duke.edu/",
+    "imageUrl": "/images/programs/autismcenter-duke-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1165,
+    "title": "Vkc Vumc",
+    "description": "Vkc Vumc — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://vkc.vumc.org/vkc/triad/",
+    "imageUrl": "/images/programs/vkc-vumc.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1166,
+    "title": "Depts Washington Edu",
+    "description": "Depts Washington Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://depts.washington.edu/uwautism/",
+    "imageUrl": "/images/programs/depts-washington-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1167,
+    "title": "Kennedykrieger",
+    "description": "Kennedykrieger — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.kennedykrieger.org/patient-care/centers-and-programs/center-for-autism-services-science-and-innovation",
+    "imageUrl": "/images/programs/kennedykrieger.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1168,
+    "title": "Massgeneral",
+    "description": "Massgeneral — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.massgeneral.org/psychiatry/conditions-and-treatments/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/massgeneral.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1169,
+    "title": "Mountsinai",
+    "description": "Mountsinai — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.mountsinai.org/locations/seaver",
+    "imageUrl": "/images/programs/mountsinai.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1170,
+    "title": "Nationwidechildrens",
+    "description": "Nationwidechildrens — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.nationwidechildrens.org/conditions/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/nationwidechildrens.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1171,
+    "title": "Cincinnatichildrens",
+    "description": "Cincinnatichildrens — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.cincinnatichildrens.org/health/a/autism",
+    "imageUrl": "/images/programs/cincinnatichildrens.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1172,
+    "title": "Childrenscolorado",
+    "description": "Childrenscolorado — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.childrenscolorado.org/conditions-and-advice/conditions-and-symptoms/a-z/",
+    "imageUrl": "/images/programs/childrenscolorado.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1173,
+    "title": "Texaschildrens",
+    "description": "Texaschildrens — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.texaschildrens.org/conditions/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/texaschildrens.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1174,
+    "title": "Childrenshospital",
+    "description": "Childrenshospital — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.childrenshospital.org/conditions/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/childrenshospital.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1175,
+    "title": "Teacch",
+    "description": "Teacch — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://teacch.com/",
+    "imageUrl": "/images/programs/teacch.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1176,
+    "title": "Teacch",
+    "description": "Teacch — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://teacch.com/resources/",
+    "imageUrl": "/images/programs/teacch.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1177,
+    "title": "Researchautism",
+    "description": "Researchautism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://researchautism.org/resources/for-individuals-and-families/",
+    "imageUrl": "/images/programs/researchautism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1178,
+    "title": "Autismspeaks",
+    "description": "Autismspeaks — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspeaks.org/resource-guide",
+    "imageUrl": "/images/programs/autismspeaks.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1179,
+    "title": "Autismcanada",
+    "description": "Autismcanada — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.autismcanada.org/acresources",
+    "imageUrl": "/images/programs/autismcanada.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1180,
+    "title": "Ninds Nih Gov",
+    "description": "Ninds Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.ninds.nih.gov/health-information/disorders/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/ninds-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1181,
+    "title": "Aap",
+    "description": "Aap — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aap.org/en/patient-care/autism/",
+    "imageUrl": "/images/programs/aap.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1182,
+    "title": "Askjan",
+    "description": "Askjan — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://askjan.org/disabilities/Autism-Spectrum-Disorder.cfm",
+    "imageUrl": "/images/programs/askjan.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1183,
+    "title": "Cdc Gov",
+    "description": "Cdc Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.cdc.gov/ncbddd/autism/index.html",
+    "imageUrl": "/images/programs/cdc-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1184,
+    "title": "Cdc Gov",
+    "description": "Cdc Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.cdc.gov/ncbddd/autism/index.html",
+    "imageUrl": "/images/programs/cdc-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1185,
+    "title": "Sites Ed Gov",
+    "description": "Sites Ed Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://sites.ed.gov/idea/",
+    "imageUrl": "/images/programs/sites-ed-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1186,
+    "title": "Gov Uk",
+    "description": "Gov Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.gov.uk/government/organisations/department-for-education",
+    "imageUrl": "/images/programs/gov-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1187,
+    "title": "Webmd",
+    "description": "Webmd — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.webmd.com/brain/autism/default.htm",
+    "imageUrl": "/images/programs/webmd.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1188,
+    "title": "Healthline",
+    "description": "Healthline — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.healthline.com/health/autism",
+    "imageUrl": "/images/programs/healthline.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1189,
+    "title": "Thinksmartbox",
+    "description": "Thinksmartbox — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://thinksmartbox.com",
+    "imageUrl": "/images/programs/thinksmartbox.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1190,
+    "title": "Tobiidynavox",
+    "description": "Tobiidynavox — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.tobiidynavox.com/support",
+    "imageUrl": "/images/programs/tobiidynavox.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1191,
+    "title": "Boardmakeronline",
+    "description": "Boardmakeronline — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.boardmakeronline.com/ (Boardmaker Online)",
+    "imageUrl": "/images/programs/boardmakeronline.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1192,
+    "title": "Boardmaker",
+    "description": "Boardmaker — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.boardmaker.com/",
+    "imageUrl": "/images/programs/boardmaker.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1193,
+    "title": "Cricksoft",
+    "description": "Cricksoft — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.cricksoft.com/uk/clicker/resources",
+    "imageUrl": "/images/programs/cricksoft.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1194,
+    "title": "Voicedream",
+    "description": "Voicedream — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.voicedream.com/",
+    "imageUrl": "/images/programs/voicedream.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1195,
+    "title": "Llamalife Co",
+    "description": "Llamalife Co — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://llamalife.co/",
+    "imageUrl": "/images/programs/llamalife-co.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1196,
+    "title": "Getcoldturkey",
+    "description": "Getcoldturkey — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://getcoldturkey.com/",
+    "imageUrl": "/images/programs/getcoldturkey.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1197,
+    "title": "Forestapp Cc",
+    "description": "Forestapp Cc — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.forestapp.cc/",
+    "imageUrl": "/images/programs/forestapp-cc.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1198,
+    "title": "Timetimer",
+    "description": "Timetimer — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.timetimer.com/",
+    "imageUrl": "/images/programs/timetimer.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1199,
+    "title": "Tiimo Dk",
+    "description": "Tiimo Dk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.tiimo.dk/",
+    "imageUrl": "/images/programs/tiimo-dk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1200,
+    "title": "Worrytree",
+    "description": "Worrytree — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://worrytree.com/",
+    "imageUrl": "/images/programs/worrytree.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1201,
+    "title": "Rootd Io",
+    "description": "Rootd Io — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://rootd.io/",
+    "imageUrl": "/images/programs/rootd-io.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1202,
+    "title": "Dbtcoach",
+    "description": "Dbtcoach — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://dbtcoach.com/",
+    "imageUrl": "/images/programs/dbtcoach.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1203,
+    "title": "Headspace",
+    "description": "Headspace — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.headspace.com/",
+    "imageUrl": "/images/programs/headspace.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1204,
+    "title": "Calm",
+    "description": "Calm — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.calm.com/",
+    "imageUrl": "/images/programs/calm.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1205,
+    "title": "Kahoot",
+    "description": "Kahoot — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://kahoot.com/",
+    "imageUrl": "/images/programs/kahoot.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1206,
+    "title": "Jkp",
+    "description": "Jkp — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.jkp.com/uk/mind-reading-1.html",
+    "imageUrl": "/images/programs/jkp.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1207,
+    "title": "Speakforyourself",
+    "description": "Speakforyourself — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.speakforyourself.org/",
+    "imageUrl": "/images/programs/speakforyourself.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1208,
+    "title": "Thinksmartbox",
+    "description": "Thinksmartbox — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://thinksmartbox.com/product/grid-3/",
+    "imageUrl": "/images/programs/thinksmartbox.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1209,
+    "title": "Prc-saltillo",
+    "description": "Prc-saltillo — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.prc-saltillo.com/products/lamp-words-for-life",
+    "imageUrl": "/images/programs/prc-saltillo.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1210,
+    "title": "Tobiidynavox",
+    "description": "Tobiidynavox — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.tobiidynavox.com/",
+    "imageUrl": "/images/programs/tobiidynavox.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1211,
+    "title": "Herts Ac Uk",
+    "description": "Herts Ac Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.herts.ac.uk/kaspar",
+    "imageUrl": "/images/programs/herts-ac-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1212,
+    "title": "Robokind",
+    "description": "Robokind — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.robokind.com/",
+    "imageUrl": "/images/programs/robokind.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1213,
+    "title": "Brain-power",
+    "description": "Brain-power — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.brain-power.com/",
+    "imageUrl": "/images/programs/brain-power.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1214,
+    "title": "Goodkarmaapplications",
+    "description": "Goodkarmaapplications — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.goodkarmaapplications.com/first-then-visual-schedule.html",
+    "imageUrl": "/images/programs/goodkarmaapplications.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1215,
+    "title": "Apps Apple",
+    "description": "Apps Apple — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://apps.apple.com/app/choiceworks/id486210964",
+    "imageUrl": "/images/programs/apps-apple.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1216,
+    "title": "Assistiveware",
+    "description": "Assistiveware — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.assistiveware.com/products/proloquo2go",
+    "imageUrl": "/images/programs/assistiveware.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1217,
+    "title": "Assistiveware",
+    "description": "Assistiveware — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.assistiveware.com/products/pictello",
+    "imageUrl": "/images/programs/assistiveware.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1218,
+    "title": "Prentrom",
+    "description": "Prentrom — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://saltillo.com/products/touchchat",
+    "imageUrl": "/images/programs/prentrom.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1219,
+    "title": "Apps Apple",
+    "description": "Apps Apple — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://apps.apple.com/app/focus-keeper/id867374917",
+    "imageUrl": "/images/programs/apps-apple.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1220,
+    "title": "Apps Apple",
+    "description": "Apps Apple — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://apps.apple.com/app/social-stories-creator/id588180598",
+    "imageUrl": "/images/programs/apps-apple.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1221,
+    "title": "Icdl",
+    "description": "Icdl — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.icdl.com/what-is-floortime",
+    "imageUrl": "/images/programs/icdl.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1222,
+    "title": "Modelmekids",
+    "description": "Modelmekids — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.modelmekids.com/app/",
+    "imageUrl": "/images/programs/modelmekids.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1223,
+    "title": "Autismsociety",
+    "description": "Autismsociety — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://autismsociety.org/local-support",
+    "imageUrl": "/images/programs/autismsociety.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1224,
+    "title": "Autism",
+    "description": "Autism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org/diagnosis",
+    "imageUrl": "/images/programs/autism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1225,
+    "title": "Autism",
+    "description": "Autism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org/treatment",
+    "imageUrl": "/images/programs/autism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1226,
+    "title": "Autism Emory Edu",
+    "description": "Autism Emory Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autism.emory.edu/",
+    "imageUrl": "/images/programs/autism-emory-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1227,
+    "title": "Medicine Yale Edu",
+    "description": "Medicine Yale Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://medicine.yale.edu/childstudy/clinical-services/autism/",
+    "imageUrl": "/images/programs/medicine-yale-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1228,
+    "title": "Education Ucsb Edu",
+    "description": "Education Ucsb Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://education.ucsb.edu/research-faculty/labs/koegel-autism-center",
+    "imageUrl": "/images/programs/education-ucsb-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1229,
+    "title": "Rcaas Rutgers Edu",
+    "description": "Rcaas Rutgers Edu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://rcaas.rutgers.edu/",
+    "imageUrl": "/images/programs/rcaas-rutgers-edu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1230,
+    "title": "Childrensnational",
+    "description": "Childrensnational — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://childrensnational.org/visit/conditions-and-treatments/a/autism-spectrum-disorder",
+    "imageUrl": "/images/programs/childrensnational.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1231,
+    "title": "Luriechildrens",
+    "description": "Luriechildrens — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.luriechildrens.org/en/specialties-conditions/autism-spectrum-disorder/",
+    "imageUrl": "/images/programs/luriechildrens.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1232,
+    "title": "Autismresearchcentre",
+    "description": "Autismresearchcentre — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismresearchcentre.com/",
+    "imageUrl": "/images/programs/autismresearchcentre.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1233,
+    "title": "Autismresearchtrust",
+    "description": "Autismresearchtrust — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.cam.ac.uk/research/centres-and-units/autism-research-trust",
+    "imageUrl": "/images/programs/autismresearchtrust.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1234,
+    "title": "Nidcd Nih Gov",
+    "description": "Nidcd Nih Gov — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.nidcd.nih.gov/health",
+    "imageUrl": "/images/programs/nidcd-nih-gov.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1235,
+    "title": "Cast",
+    "description": "Cast — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.cast.org/impact/universal-design-for-learning-udl",
+    "imageUrl": "/images/programs/cast.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1236,
+    "title": "Udlguidelines Cast",
+    "description": "Udlguidelines Cast — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://udlguidelines.cast.org/",
+    "imageUrl": "/images/programs/udlguidelines-cast.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1237,
+    "title": "Bookshare",
+    "description": "Bookshare — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.bookshare.org/cms/",
+    "imageUrl": "/images/programs/bookshare.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1238,
+    "title": "Learningally",
+    "description": "Learningally — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://learningally.org/",
+    "imageUrl": "/images/programs/learningally.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1239,
+    "title": "Autcraft",
+    "description": "Autcraft — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autcraft.com/",
+    "imageUrl": "/images/programs/autcraft.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1240,
+    "title": "Specialeffect Uk",
+    "description": "Specialeffect Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.specialeffect.org.uk/",
+    "imageUrl": "/images/programs/specialeffect-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1241,
+    "title": "Ablegamers",
+    "description": "Ablegamers — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://ablegamers.org/",
+    "imageUrl": "/images/programs/ablegamers.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1242,
+    "title": "Scottishautism",
+    "description": "Scottishautism — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.scottishautism.org/",
+    "imageUrl": "/images/programs/scottishautism.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1243,
+    "title": "Autismwales",
+    "description": "Autismwales — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autismwales.org/en/",
+    "imageUrl": "/images/programs/autismwales.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1244,
+    "title": "Autismni",
+    "description": "Autismni — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismni.org/",
+    "imageUrl": "/images/programs/autismni.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1245,
+    "title": "Autismbc Ca",
+    "description": "Autismbc Ca — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismbc.ca/",
+    "imageUrl": "/images/programs/autismbc-ca.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1246,
+    "title": "Autismnovascotia Ca",
+    "description": "Autismnovascotia Ca — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autismnovascotia.ca/",
+    "imageUrl": "/images/programs/autismnovascotia-ca.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1247,
+    "title": "Autismalberta Ca",
+    "description": "Autismalberta Ca — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismalberta.ca/",
+    "imageUrl": "/images/programs/autismalberta-ca.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1248,
+    "title": "Autismspectrum Au",
+    "description": "Autismspectrum Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismspectrum.org.au/",
+    "imageUrl": "/images/programs/autismspectrum-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1249,
+    "title": "Amaze Au",
+    "description": "Amaze Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.amaze.org.au/",
+    "imageUrl": "/images/programs/amaze-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1250,
+    "title": "Autism-india",
+    "description": "Autism-india — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism-india.org/",
+    "imageUrl": "/images/programs/autism-india.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1251,
+    "title": "Autismsouthafrica",
+    "description": "Autismsouthafrica — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismsouthafrica.org/",
+    "imageUrl": "/images/programs/autismsouthafrica.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1252,
+    "title": "Auticon",
+    "description": "Auticon — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://auticon.com/",
+    "imageUrl": "/images/programs/auticon.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1253,
+    "title": "Specialisterne",
+    "description": "Specialisterne — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://specialisterne.com/",
+    "imageUrl": "/images/programs/specialisterne.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1254,
+    "title": "Microsoft",
+    "description": "Microsoft — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.microsoft.com/en-us/ability/employment/neurodiversity",
+    "imageUrl": "/images/programs/microsoft.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1255,
+    "title": "Thearc",
+    "description": "Thearc — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://thearc.org/",
+    "imageUrl": "/images/programs/thearc.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1256,
+    "title": "Exceptionalmindsstudio",
+    "description": "Exceptionalmindsstudio — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.exceptionalmindsstudio.org/",
+    "imageUrl": "/images/programs/exceptionalmindsstudio.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1257,
+    "title": "Autism Ie",
+    "description": "Autism Ie — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.ie/",
+    "imageUrl": "/images/programs/autism-ie.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1258,
+    "title": "Citizensinformation Ie",
+    "description": "Citizensinformation Ie — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.citizensinformation.ie/en/health/health-services/disability-services/autism/",
+    "imageUrl": "/images/programs/citizensinformation-ie.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1259,
+    "title": "Autismnz Nz",
+    "description": "Autismnz Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismnz.org.nz/resources",
+    "imageUrl": "/images/programs/autismnz-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1260,
+    "title": "Health Govt Nz",
+    "description": "Health Govt Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.health.govt.nz/your-health",
+    "imageUrl": "/images/programs/health-govt-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1261,
+    "title": "Mededportal",
+    "description": "Mededportal — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.mededportal.org/search/?q=autism",
+    "imageUrl": "/images/programs/mededportal.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1262,
+    "title": "Aucd",
+    "description": "Aucd — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aucd.org/",
+    "imageUrl": "/images/programs/aucd.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1263,
+    "title": "Neuroclastic",
+    "description": "Neuroclastic — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://neuroclastic.com/",
+    "imageUrl": "/images/programs/neuroclastic.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1264,
+    "title": "Aimha Ie",
+    "description": "Aimha Ie — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aimha.ie/resources/",
+    "imageUrl": "/images/programs/aimha-ie.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1265,
+    "title": "Eani Uk",
+    "description": "Eani Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.eani.org.uk/parents/supporting-learning/special-educational-needs-sen/types-of-special-educational-needs/autism",
+    "imageUrl": "/images/programs/eani-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1266,
+    "title": "Autism-toolkit",
+    "description": "Autism-toolkit — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism-toolkit.org/",
+    "imageUrl": "/images/programs/autism-toolkit.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1267,
+    "title": "Autism-awareness",
+    "description": "Autism-awareness — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism-awareness.com/",
+    "imageUrl": "/images/programs/autism-awareness.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1268,
+    "title": "Autisminternetmodules",
+    "description": "Autisminternetmodules — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisminternetmodules.org/",
+    "imageUrl": "/images/programs/autisminternetmodules.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1269,
+    "title": "Autisminternetmodules",
+    "description": "Autisminternetmodules — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autisminternetmodules.org/m/overview",
+    "imageUrl": "/images/programs/autisminternetmodules.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1270,
+    "title": "Aspinaction",
+    "description": "Aspinaction — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aspinaction.org/resources",
+    "imageUrl": "/images/programs/aspinaction.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1271,
+    "title": "Autism-alliance",
+    "description": "Autism-alliance — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism-alliance.org/",
+    "imageUrl": "/images/programs/autism-alliance.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1272,
+    "title": "Theautismcommunityinaction",
+    "description": "Theautismcommunityinaction — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.theautismcommunityinaction.org/resources/",
+    "imageUrl": "/images/programs/theautismcommunityinaction.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1273,
+    "title": "Autism Sg",
+    "description": "Autism Sg — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.sg/resources",
+    "imageUrl": "/images/programs/autism-sg.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1274,
+    "title": "Neurodiversityfoundation",
+    "description": "Neurodiversityfoundation — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://neurodiversityfoundation.org/",
+    "imageUrl": "/images/programs/neurodiversityfoundation.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1275,
+    "title": "Neurodiversityweek",
+    "description": "Neurodiversityweek — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.neurodiversityweek.com/",
+    "imageUrl": "/images/programs/neurodiversityweek.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1276,
+    "title": "Autismsocietyphilippines",
+    "description": "Autismsocietyphilippines — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismsocietyphilippines.org/",
+    "imageUrl": "/images/programs/autismsocietyphilippines.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1277,
+    "title": "Autisme-france Fr",
+    "description": "Autisme-france Fr — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme-france.fr/",
+    "imageUrl": "/images/programs/autisme-france-fr.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1278,
+    "title": "Autismo Es",
+    "description": "Autismo Es — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismo.org.es/",
+    "imageUrl": "/images/programs/autismo-es.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1279,
+    "title": "Autismequebec",
+    "description": "Autismequebec — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autismequebec.org/",
+    "imageUrl": "/images/programs/autismequebec.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1280,
+    "title": "Autismkorea Kr",
+    "description": "Autismkorea Kr — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismkorea.kr/",
+    "imageUrl": "/images/programs/autismkorea-kr.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1281,
+    "title": "Autism Za",
+    "description": "Autism Za — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.za/",
+    "imageUrl": "/images/programs/autism-za.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1282,
+    "title": "Autism Tr",
+    "description": "Autism Tr — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.tr/",
+    "imageUrl": "/images/programs/autism-tr.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1283,
+    "title": "Autism Hk",
+    "description": "Autism Hk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.hk/",
+    "imageUrl": "/images/programs/autism-hk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1284,
+    "title": "Autismsociety-nc",
+    "description": "Autismsociety-nc — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismsociety-nc.org/",
+    "imageUrl": "/images/programs/autismsociety-nc.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1285,
+    "title": "Autism Au",
+    "description": "Autism Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.au/",
+    "imageUrl": "/images/programs/autism-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1286,
+    "title": "Autismwales",
+    "description": "Autismwales — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismwales.org/en/",
+    "imageUrl": "/images/programs/autismwales.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1287,
+    "title": "Adhdfoundation Uk",
+    "description": "Adhdfoundation Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.adhdfoundation.org.uk/",
+    "imageUrl": "/images/programs/adhdfoundation-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1288,
+    "title": "Adhduk Co Uk",
+    "description": "Adhduk Co Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://adhduk.co.uk/",
+    "imageUrl": "/images/programs/adhduk-co-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1289,
+    "title": "Adhdaustralia Au",
+    "description": "Adhdaustralia Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.adhdaustralia.org.au/",
+    "imageUrl": "/images/programs/adhdaustralia-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1290,
+    "title": "Caddra Ca",
+    "description": "Caddra Ca — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.caddra.ca/",
+    "imageUrl": "/images/programs/caddra-ca.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1291,
+    "title": "Adhdeurope Eu",
+    "description": "Adhdeurope Eu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://adhdeurope.eu/",
+    "imageUrl": "/images/programs/adhdeurope-eu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1292,
+    "title": "Understood",
+    "description": "Understood — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.understood.org/en/topics/learning-thinking-differences",
+    "imageUrl": "/images/programs/understood.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1293,
+    "title": "Dyslexiaida",
+    "description": "Dyslexiaida — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://dyslexiaida.org/",
+    "imageUrl": "/images/programs/dyslexiaida.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1294,
+    "title": "Bdadyslexia Uk",
+    "description": "Bdadyslexia Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.bdadyslexia.org.uk/",
+    "imageUrl": "/images/programs/bdadyslexia-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1295,
+    "title": "Dyslexiafoundation",
+    "description": "Dyslexiafoundation — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.dyslexiafoundation.org/",
+    "imageUrl": "/images/programs/dyslexiafoundation.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1296,
+    "title": "Dyslexiaaustralia Au",
+    "description": "Dyslexiaaustralia Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.dyslexiaaustralia.org.au/",
+    "imageUrl": "/images/programs/dyslexiaaustralia-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1297,
+    "title": "Dyslexiacanada",
+    "description": "Dyslexiacanada — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.dyslexiacanada.org/",
+    "imageUrl": "/images/programs/dyslexiacanada.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1298,
+    "title": "Dyslexiafoundation Nz",
+    "description": "Dyslexiafoundation Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.dyslexiafoundation.org.nz/",
+    "imageUrl": "/images/programs/dyslexiafoundation-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1299,
+    "title": "Dyspraxiafoundation Uk",
+    "description": "Dyspraxiafoundation Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://dyspraxiafoundation.org.uk/",
+    "imageUrl": "/images/programs/dyspraxiafoundation-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1300,
+    "title": "Dyspraxia Au",
+    "description": "Dyspraxia Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://dyspraxia.org.au/",
+    "imageUrl": "/images/programs/dyspraxia-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1301,
+    "title": "Dyspraxia Nz",
+    "description": "Dyspraxia Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://dyspraxia.org.nz/",
+    "imageUrl": "/images/programs/dyspraxia-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1302,
+    "title": "Canchild Ca",
+    "description": "Canchild Ca — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://canchild.ca/en/diagnoses/developmental-coordination-disorder",
+    "imageUrl": "/images/programs/canchild-ca.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1303,
+    "title": "Dyscalculia",
+    "description": "Dyscalculia — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.dyscalculia.org/",
+    "imageUrl": "/images/programs/dyscalculia.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1304,
+    "title": "Dyscalculia Uk",
+    "description": "Dyscalculia Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.dyscalculia.org.uk/",
+    "imageUrl": "/images/programs/dyscalculia-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1305,
+    "title": "Dyscalculiaassociation",
+    "description": "Dyscalculiaassociation — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://dyscalculiaassociation.org/",
+    "imageUrl": "/images/programs/dyscalculiaassociation.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1306,
+    "title": "Tourette",
+    "description": "Tourette — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://tourette.org/",
+    "imageUrl": "/images/programs/tourette.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1307,
+    "title": "Tourettes-action Uk",
+    "description": "Tourettes-action Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.tourettes-action.org.uk/",
+    "imageUrl": "/images/programs/tourettes-action-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1308,
+    "title": "Tourette Ca",
+    "description": "Tourette Ca — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.tourette.ca/",
+    "imageUrl": "/images/programs/tourette-ca.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1309,
+    "title": "Tourettes Nz",
+    "description": "Tourettes Nz — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.tourettes.org.nz/",
+    "imageUrl": "/images/programs/tourettes-nz.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1310,
+    "title": "Tourette Au",
+    "description": "Tourette Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.tourette.org.au/",
+    "imageUrl": "/images/programs/tourette-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1311,
+    "title": "Essts",
+    "description": "Essts — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://essts.org/",
+    "imageUrl": "/images/programs/essts.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1312,
+    "title": "Communicationmatters Uk",
+    "description": "Communicationmatters Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://communicationmatters.org.uk/",
+    "imageUrl": "/images/programs/communicationmatters-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1313,
+    "title": "Sensoryhealth",
+    "description": "Sensoryhealth — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://sensoryhealth.org/",
+    "imageUrl": "/images/programs/sensoryhealth.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1314,
+    "title": "Autismtoolbox Co Uk",
+    "description": "Autismtoolbox Co Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismtoolbox.co.uk/",
+    "imageUrl": "/images/programs/autismtoolbox-co-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1315,
+    "title": "Specialisterne",
+    "description": "Specialisterne — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.specialisterne.com/",
+    "imageUrl": "/images/programs/specialisterne.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1316,
+    "title": "Autismawarenesscentre",
+    "description": "Autismawarenesscentre — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autismawarenesscentre.com/",
+    "imageUrl": "/images/programs/autismawarenesscentre.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1317,
+    "title": "Autism Au",
+    "description": "Autism Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autism.org.au/",
+    "imageUrl": "/images/programs/autism-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1318,
+    "title": "Ani-c Au",
+    "description": "Ani-c Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.ani-c.org.au/",
+    "imageUrl": "/images/programs/ani-c-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1319,
+    "title": "Autism My",
+    "description": "Autism My — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.my/",
+    "imageUrl": "/images/programs/autism-my.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1320,
+    "title": "Autismcyprus",
+    "description": "Autismcyprus — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismcyprus.com/",
+    "imageUrl": "/images/programs/autismcyprus.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1321,
+    "title": "Autismsociety Gr",
+    "description": "Autismsociety Gr — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismsociety.gr/",
+    "imageUrl": "/images/programs/autismsociety-gr.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1322,
+    "title": "Autism Gr",
+    "description": "Autism Gr — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.gr/",
+    "imageUrl": "/images/programs/autism-gr.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1323,
+    "title": "Autizmo Pl",
+    "description": "Autizmo Pl — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autizmo.pl/",
+    "imageUrl": "/images/programs/autizmo-pl.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1324,
+    "title": "Autisme Ch",
+    "description": "Autisme Ch — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme.ch/",
+    "imageUrl": "/images/programs/autisme-ch.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1325,
+    "title": "Autisme Ch",
+    "description": "Autisme Ch — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme.ch/fr/",
+    "imageUrl": "/images/programs/autisme-ch.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1326,
+    "title": "Autismo It",
+    "description": "Autismo It — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismo.it/",
+    "imageUrl": "/images/programs/autismo-it.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1327,
+    "title": "Autisme Dk",
+    "description": "Autisme Dk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme.dk/",
+    "imageUrl": "/images/programs/autisme-dk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1328,
+    "title": "Autisme Se",
+    "description": "Autisme Se — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme.se/",
+    "imageUrl": "/images/programs/autisme-se.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1329,
+    "title": "Autisme No",
+    "description": "Autisme No — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme.no/",
+    "imageUrl": "/images/programs/autisme-no.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1330,
+    "title": "Autisme Be",
+    "description": "Autisme Be — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme.be/",
+    "imageUrl": "/images/programs/autisme-be.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1331,
+    "title": "Autisme Lu",
+    "description": "Autisme Lu — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autisme.lu/",
+    "imageUrl": "/images/programs/autisme-lu.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1332,
+    "title": "Autism Za",
+    "description": "Autism Za — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism.org.za/associations",
+    "imageUrl": "/images/programs/autism-za.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1333,
+    "title": "Apraxiakids",
+    "description": "Apraxiakids — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.apraxiakids.org/",
+    "imageUrl": "/images/programs/apraxiakids.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1334,
+    "title": "Stutteringhelp",
+    "description": "Stutteringhelp — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.stutteringhelp.org/",
+    "imageUrl": "/images/programs/stutteringhelp.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1335,
+    "title": "Talkingmats",
+    "description": "Talkingmats — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.talkingmats.com/",
+    "imageUrl": "/images/programs/talkingmats.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1336,
+    "title": "Positivelyautistic",
+    "description": "Positivelyautistic — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.positivelyautistic.com/",
+    "imageUrl": "/images/programs/positivelyautistic.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1337,
+    "title": "Theautismcommunityinaction",
+    "description": "Theautismcommunityinaction — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.theautismcommunityinaction.org/",
+    "imageUrl": "/images/programs/theautismcommunityinaction.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1338,
+    "title": "Aspireautism Uk",
+    "description": "Aspireautism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aspireautism.org.uk/",
+    "imageUrl": "/images/programs/aspireautism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1339,
+    "title": "Aspify",
+    "description": "Aspify — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.aspify.org/",
+    "imageUrl": "/images/programs/aspify.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1340,
+    "title": "Autisticwomenandnonbinarynetwork",
+    "description": "Autisticwomenandnonbinarynetwork — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://autisticwomenandnonbinarynetwork.org/",
+    "imageUrl": "/images/programs/autisticwomenandnonbinarynetwork.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1341,
+    "title": "Neuroclastic",
+    "description": "Neuroclastic — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.neuroclastic.com/",
+    "imageUrl": "/images/programs/neuroclastic.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1342,
+    "title": "Thinkingautism Uk",
+    "description": "Thinkingautism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.thinkingautism.org.uk/",
+    "imageUrl": "/images/programs/thinkingautism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1343,
+    "title": "Autismempowerment",
+    "description": "Autismempowerment — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismempowerment.org/resources/",
+    "imageUrl": "/images/programs/autismempowerment.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1344,
+    "title": "Autism-alliance Uk",
+    "description": "Autism-alliance Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autism-alliance.org.uk/",
+    "imageUrl": "/images/programs/autism-alliance-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1345,
+    "title": "Autismage",
+    "description": "Autismage — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismage.com/",
+    "imageUrl": "/images/programs/autismage.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1346,
+    "title": "Ambitiousaboutautism Uk",
+    "description": "Ambitiousaboutautism Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.ambitiousaboutautism.org.uk/",
+    "imageUrl": "/images/programs/ambitiousaboutautism-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1347,
+    "title": "Autismeurope",
+    "description": "Autismeurope — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autismeurope.org/what-we-do/projects/",
+    "imageUrl": "/images/programs/autismeurope.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1348,
+    "title": "Autismsa Au",
+    "description": "Autismsa Au — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+  "website": "https://www.autismsa.org.au/",
+    "imageUrl": "/images/programs/autismsa-au.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  },
+  {
+    "id": 1349,
+    "title": "Autistica Uk",
+    "description": "Autistica Uk — verified resource URL imported from list.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.autistica.org.uk/our-research/research-projects",
+    "imageUrl": "/images/programs/autistica-uk.jpg",
+    "featured": false,
+    "tags": [
+      "imported"
+    ]
+  }
+  ,
+  {
+    "id": 1350,
+    "title": "Smiling Mind (Free Mindfulness)",
+    "description": "Evidence-informed, completely free mindfulness app for all ages, including programs for kids, teens, and adults.",
+    "category": "Mindfulness & Meditation",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": true,
+    "website": "https://www.smilingmind.com.au/",
+    "imageUrl": "/images/programs/smiling-mind.jpg",
+    "featured": false,
+    "tags": [
+      "mindfulness",
+      "free",
+      "calm"
+    ]
+  },
+  {
+    "id": 1351,
+    "title": "Insight Timer (Guided Meditations)",
+    "description": "Large library of free guided meditations and calming music; optional premium courses.",
+    "category": "Mindfulness & Meditation",
+    "country": "Global",
+    "price": "Free + optional paid",
+    "platforms": [
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://insighttimer.com/",
+    "imageUrl": "/images/programs/insight-timer.jpg",
+    "featured": false,
+    "tags": [
+      "mindfulness",
+      "meditation",
+      "relaxation"
+    ]
+  },
+  {
+    "id": 1352,
+    "title": "UCLA Mindful (Free Guided Meditations)",
+    "description": "Free guided practices from UCLA’s Mindful Awareness Research Center (MARC).",
+    "category": "Mindfulness & Meditation",
+    "country": "USA",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": true,
+    "website": "https://www.uclahealth.org/programs/marc/free-guided-meditations",
+    "imageUrl": "/images/programs/ucla-mindful.jpg",
+    "featured": false,
+    "tags": [
+      "mindfulness",
+      "guided",
+      "calm"
+    ]
+  },
+  {
+    "id": 1353,
+    "title": "Mindfulness Coach (VA)",
+    "description": "Free app developed by the U.S. Department of Veterans Affairs to build a simple, consistent mindfulness practice.",
+    "category": "Mindfulness & Meditation",
+    "country": "USA",
+    "price": "Free",
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "ageGroup": "Adults",
+    "researchBacked": true,
+    "website": "https://mobile.va.gov/app/mindfulness-coach",
+    "imageUrl": "/images/programs/mindfulness-coach.jpg",
+    "featured": false,
+    "tags": [
+      "mindfulness",
+      "stress",
+      "anxiety"
+    ]
+  },
+  {
+    "id": 1354,
+    "title": "Healthy Minds Program",
+    "description": "Science-based well-being training app from the Center for Healthy Minds with free core content.",
+    "category": "Mindfulness & Meditation",
+    "country": "USA",
+    "price": "Free",
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": true,
+    "website": "https://tryhealthyminds.org/",
+    "imageUrl": "/images/programs/healthy-minds.jpg",
+    "featured": false,
+    "tags": [
+      "mindfulness",
+      "well-being",
+      "science-based"
+    ]
+  },
+  {
+    "id": 1355,
+    "title": "Mindful Powers (for Kids)",
+    "description": "Kid-friendly mindfulness app with interactive ‘Flibbertigibbet’ to build focus and calm.",
+    "category": "Mindfulness & Meditation",
+    "country": "Global",
+    "price": "Free + optional paid",
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "ageGroup": "Children, School Age",
+    "researchBacked": false,
+    "website": "https://mindfulpowersforkids.com/",
+    "imageUrl": "/images/programs/mindful-powers.jpg",
+    "featured": false,
+    "tags": [
+      "kids",
+      "mindfulness",
+      "focus"
+    ]
+  },
+  {
+    "id": 1356,
+    "title": "Understanding Autism – Meet Ned (Autism Queensland)",
+    "description": "Short explainer video to help families understand autism; culturally aware resource.",
+    "category": "Information & Support",
+    "country": "Australia",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.youtube.com/watch?v=SgqZY0JQgBU",
+    "imageUrl": "/images/programs/youtube-meet-ned.jpg",
+    "featured": false,
+    "tags": [
+      "video",
+      "youtube",
+      "education"
+    ]
+  },
+  {
+    "id": 1357,
+    "title": "What is Autism? (Cincinnati Children’s)",
+    "description": "Clear overview of autism for families from a leading children’s hospital.",
+    "category": "Information & Support",
+    "country": "USA",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.youtube.com/watch?v=hwaaphuStxY",
+    "imageUrl": "/images/programs/youtube-cchmc-what-is-autism.jpg",
+    "featured": false,
+    "tags": [
+      "video",
+      "youtube",
+      "education"
+    ]
+  },
+  {
+    "id": 1358,
+    "title": "2-Minute Neuroscience: Autism",
+    "description": "Brief, animated explanation of autism by Neuroscientifically Challenged.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": false,
+    "website": "https://www.youtube.com/watch?v=tEBsTX2OVgI",
+    "imageUrl": "/images/programs/youtube-2min-neuro-autism.jpg",
+    "featured": false,
+    "tags": [
+      "video",
+      "youtube",
+      "neuroscience"
+    ]
+  },
+  {
+    "id": 1359,
+    "title": "Autism From The Inside (Channel)",
+    "description": "Educational YouTube channel by an autistic creator covering traits, masking, and everyday strategies.",
+    "category": "Information & Support",
+    "country": "Australia",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": false,
+    "website": "https://www.youtube.com/@autismfromtheInside",
+    "imageUrl": "/images/programs/youtube-autism-from-the-inside.jpg",
+    "featured": false,
+    "tags": [
+      "youtube",
+      "channel",
+      "education"
+    ]
+  },
+  {
+    "id": 1360,
+    "title": "Goldilocks & The Three Bears – Understanding Autism (Amy Nielsen)",
+    "description": "A short ‘Three Bears’ themed explainer touching on autism spectrum understanding for kids.",
+    "category": "Information & Support",
+    "country": "Global",
+    "price": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "ageGroup": "Children, Families",
+    "researchBacked": false,
+    "website": "https://www.youtube.com/watch?v=dJ4FK-ars8M",
+    "imageUrl": "/images/programs/youtube-three-bears-autism.jpg",
+    "featured": false,
+    "tags": [
+      "video",
+      "youtube",
+      "kids"
+    ]
+  },
+  {
+    "id": 1361,
+    "title": "1800 Seconds on Autism (BBC)",
+    "description": "Conversations by autistic hosts about everyday life, identity, and support.",
+    "category": "Podcasts",
+    "country": "UK",
+    "price": "Free",
+    "platforms": [
+      "Podcast",
+      "Web"
+    ],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": false,
+  "website": "https://www.bbc.co.uk/programmes/p06n5b2n",
+    "imageUrl": "/images/programs/podcast-1800-seconds.jpg",
+    "featured": false,
+    "tags": [
+      "autistic voices",
+      "bbc",
+      "neurodiversity"
+    ]
+  },
+  {
+    "id": 1362,
+    "title": "Autism Stories (Autism Personal Coach)",
+    "description": "Interviews spotlighting autistic adults, advocates, and professionals.",
+    "category": "Podcasts",
+    "country": "USA",
+    "price": "Free",
+    "platforms": [
+      "Podcast",
+      "Web"
+    ],
+    "ageGroup": "Adults",
+    "researchBacked": false,
+  "website": "https://open.spotify.com/show/5mtjxCVcTyDcnx8j63n8La",
+    "imageUrl": "/images/programs/podcast-autism-stories.jpg",
+    "featured": false,
+    "tags": [
+      "autistic voices",
+      "careers",
+      "lived experience"
+    ]
+  },
+  {
+    "id": 1363,
+    "title": "Uniquely Human: The Podcast (Barry Prizant)",
+    "description": "Strengths-based perspectives and practical support for autistic people and families.",
+    "category": "Podcasts",
+    "country": "USA",
+    "price": "Free",
+    "platforms": [
+      "Podcast",
+      "Web"
+    ],
+    "ageGroup": "Parents, Professionals",
+    "researchBacked": true,
+  "website": "https://uniquelyhuman.com/",
+    "imageUrl": "/images/programs/podcast-uniquely-human.jpg",
+    "featured": false,
+    "tags": [
+      "strengths-based",
+      "practical",
+      "family"
+    ]
+  },
+  {
+    "id": 1364,
+    "title": "1800RESPECT – Sunny App Stories (Neurodiversity & Safety)",
+    "description": "Short, accessible conversations about safety, consent, and support for diverse audiences.",
+    "category": "Podcasts",
+    "country": "Australia",
+    "price": "Free",
+    "platforms": [
+      "Podcast",
+      "Web"
+    ],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": false,
+  "website": "https://1800respect.org.au/sunny",
+    "imageUrl": "/images/programs/podcast-sunny.jpg",
+    "featured": false,
+    "tags": [
+      "safety",
+      "consent",
+      "accessibility"
+    ]
+  },
+  {
+    "id": 1365,
+    "title": "The Neurodiversity Podcast",
+    "description": "Interviews with researchers, educators, and neurodivergent voices on thriving with ND brains.",
+    "category": "Podcasts",
+    "country": "Global",
+    "price": "Free + optional support",
+    "platforms": [
+      "Podcast",
+      "Web"
+    ],
+    "ageGroup": "Parents, Educators, Adults",
+    "researchBacked": false,
+    "website": "https://www.neurodiversitypodcast.com/",
+    "imageUrl": "/images/programs/podcast-neurodiversity.jpg",
+    "featured": false,
+    "tags": [
+      "education",
+      "research",
+      "thriving"
+    ]
+  }
+  ,
+  {
+    "id": 1401,
+    "title": "Otsimo Speech Therapy (Free Starter)",
+    "description": "Evidence-informed speech exercises with visual cues and kid-friendly design. Free starter plan with core modules.",
+    "category": "Communication",
+    "country": "Global",
+    "price": "Free tier + paid upgrades",
+    "platforms": ["iOS", "Android"],
+    "ageGroup": "Children, Families",
+    "researchBacked": true,
+    "website": "https://otsimo.com/en/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["speech", "communication", "practice", "free-speech-comm"]
+  },
+  {
+    "id": 1402,
+    "title": "CoughDrop AAC (Community Plan)",
+    "description": "Cloud AAC with sharable boards and cross-platform access. Community plan free for individuals with limited needs.",
+    "category": "Communication",
+    "country": "USA",
+    "price": "Free community plan",
+    "platforms": ["Web", "iOS", "Android", "Windows", "Mac"],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.mycoughdrop.com/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["AAC", "communication", "boards", "free-speech-comm"]
+  },
+  {
+    "id": 1403,
+    "title": "Voiceitt (Accessibility Speech Recognition)",
+    "description": "Speech recognition for non-standard speech. Offers free trial and accessibility pilots; contact for supported free access.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free trial / assisted access",
+    "platforms": ["iOS", "Web"],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": true,
+    "website": "https://voiceitt.com/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["speech recognition", "accessibility", "free-speech-comm"]
+  },
+  {
+    "id": 1404,
+    "title": "Project Relate by Google (Experimental)",
+    "description": "Experimental app that helps people with speech impairments communicate using personalized speech recognition and text-to-speech.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free (limited availability)",
+    "platforms": ["Android"],
+    "ageGroup": "Adults, Teens",
+    "researchBacked": true,
+    "website": "https://sites.research.google/relate/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["speech recognition", "communication", "free-speech-comm"]
+  },
+  {
+    "id": 1405,
+    "title": "Microsoft Live Captions (Windows)",
+    "description": "On-device live captions that transcribe speech from system audio and microphone. Helpful for comprehension and communication.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free",
+    "platforms": ["Windows"],
+    "ageGroup": "All Ages",
+    "researchBacked": true,
+  "website": "https://www.microsoft.com/en-us/ability/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["captions", "accessibility", "communication", "free-speech-comm"]
+  },
+  {
+    "id": 1406,
+    "title": "Android Live Transcribe (Speech-to-Text)",
+    "description": "Real-time speech-to-text captions powered by Google on Android devices.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free",
+    "platforms": ["Android"],
+    "ageGroup": "All Ages",
+    "researchBacked": true,
+  "website": "https://www.android.com/accessibility/live-transcribe/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": true,
+    "tags": ["captions", "speech-to-text", "communication", "free-speech-comm"]
+  },
+  {
+    "id": 1407,
+    "title": "Apple Live Captions & Type to Speak",
+    "description": "System features for captioning audio and communicating by typing, available on iPhone, iPad, and Mac.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free",
+    "platforms": ["iOS", "Mac"],
+    "ageGroup": "All Ages",
+    "researchBacked": true,
+    "website": "https://support.apple.com/guide/iphone/use-live-captions-iph3b9a9f56c/ios",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["captions", "type to speak", "accessibility", "free-speech-comm"]
+  },
+  {
+    "id": 1408,
+    "title": "LetMeTalk AAC",
+    "description": "Free picture-based AAC app with customizable boards available on Android and iOS.",
+    "category": "Communication",
+    "country": "Global",
+    "price": "Free",
+    "platforms": ["Android", "iOS"],
+    "ageGroup": "Children, Teens, Adults",
+    "researchBacked": false,
+  "website": "https://play.google.com/store/apps/details?id=de.appnotize.letmetalk",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["AAC", "communication", "boards", "free-speech-comm"]
+  },
+  {
+    "id": 1409,
+    "title": "CBoard (Open Source AAC)",
+    "description": "Open-source AAC web app with symbol-based communication supporting multiple languages.",
+    "category": "Communication",
+    "country": "Global",
+    "price": "Free • Open source",
+    "platforms": ["Web", "Android"],
+    "ageGroup": "All Ages",
+    "researchBacked": false,
+    "website": "https://www.cboard.io/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": true,
+    "tags": ["AAC", "open source", "symbols", "free-speech-comm"]
+  },
+  {
+    "id": 1410,
+    "title": "Jitsi Meet (Push-to-Talk + Captions)",
+    "description": "Free, open-source video meetings with live transcription and push-to-talk, useful for remote speech practice.",
+    "category": "Communication",
+    "country": "Global",
+    "price": "Free",
+    "platforms": ["Web", "Android", "iOS"],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": false,
+    "website": "https://meet.jit.si/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["captions", "video", "practice", "free-speech-comm", "open source"]
+  },
+  {
+    "id": 1411,
+    "title": "Keeble/Keedogo (Assistive Keyboards)",
+    "description": "Alternative keyboards by AssistiveWare with larger keys, configurable layouts, and auditory feedback. Free trials available.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free trial",
+    "platforms": ["iOS"],
+    "ageGroup": "Children, Teens, Adults",
+    "researchBacked": false,
+    "website": "https://www.assistiveware.com/products/keeble",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["keyboard", "motor access", "typing", "free-speech-comm"]
+  },
+  {
+    "id": 1412,
+    "title": "Voice Access (Android hands-free)",
+    "description": "Control Android by voice and dictate text hands-free, helpful for motor and speech challenges.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free",
+    "platforms": ["Android"],
+    "ageGroup": "All Ages",
+    "researchBacked": true,
+  "website": "https://www.android.com/accessibility/voice-access/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["voice control", "dictation", "accessibility", "free-speech-comm"]
+  },
+  {
+    "id": 1413,
+    "title": "Windows Speech Recognition",
+    "description": "Built-in dictation and command control on Windows, enabling speech-to-text and navigation.",
+    "category": "Assistive Technology",
+    "country": "Global",
+    "price": "Free",
+    "platforms": ["Windows"],
+    "ageGroup": "Teens, Adults",
+    "researchBacked": true,
+  "website": "https://learn.microsoft.com/windows/accessibility/",
+    "imageUrl": "/images/placeholder.svg",
+    "featured": false,
+    "tags": ["dictation", "accessibility", "free-speech-comm"]
+  }
+]

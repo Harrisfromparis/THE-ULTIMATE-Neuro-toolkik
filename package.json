@@ -1,1 +1,30 @@
-
+{
+  "name": "the-neuronest",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+  "prebuild": "npm run check:links",
+  "start": "next start",
+  "import:csv": "node tools/import-from-csv.js tools/programs-template.csv > data/programs-extra.json",
+  "import:urls": "node tools/import-from-urls.js tools/urls.txt",
+  "export:csv": "node tools/export/programs-to-csv.js > tools/programs-export.csv",
+  "check:links": "node tools/check-links.js",
+  "check:links:fast": "node tools/check-links.js --fast",
+  "check:links:new": "node tools/check-links.js --fast --only-new"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "24.2.1",
+    "@types/react": "19.1.10",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.0",
+    "typescript": "5.9.2"
+  }
+}

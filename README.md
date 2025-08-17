@@ -33,3 +33,11 @@ Add the `package.json` file (instructions will follow in the chat).
 ---
 
 This README will be expanded once the codebase is fully recovered.
+
+## Link Health Guarantee
+
+This app verifies all program links and publishes a status file used in the UI.
+
+- Run: `npm run check:links` to generate `tools/link-check-report.json|csv` and `public/link-health.json`.
+- Build gate: `prebuild` runs the link check; the build fails if any links are broken (excluding a small allowlist of sites that block bots but work in a browser).
+- UI: The Programs page shows a badge with the latest link health pulled from `/link-health.json`.

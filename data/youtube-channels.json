@@ -1,0 +1,826 @@
+[
+  {
+    "name": "Autism Self Advocacy Network",
+    "category": "Autism Self-Advocacy",
+    "channelUrl": "https://www.youtube.com/@autismselfadvocacynetwork",
+    "description": "The Autism Self Advocacy Network (ASAN) is a non-profit organization run by and for autistic people.",
+    "subscribers": "5K+",
+    "featured": true
+  },
+  {
+    "name": "Temple Grandin",
+    "category": "Autism Education",
+    "channelUrl": "https://www.youtube.com/@TempleGrandinOfficial",
+    "description": "Dr. Temple Grandin shares insights on autism, animal behavior, and designing for autism.",
+    "subscribers": "50K+",
+    "featured": true
+  },
+  {
+    "name": "Yo Samdy Sam",
+    "category": "Autism Lifestyle",
+    "channelUrl": "https://www.youtube.com/@YoSamdySam",
+    "description": "Autistic content creator sharing daily life, advocacy, and autism awareness.",
+    "subscribers": "100K+",
+    "featured": true
+  },
+  {
+    "name": "The Aspie World",
+    "category": "Autism Personal Experience",
+    "channelUrl": "https://www.youtube.com/@TheAspieWorld",
+    "description": "Dan shares his experiences as an autistic person and provides tips for thriving with autism.",
+    "subscribers": "200K+",
+    "featured": true
+  },
+  {
+    "name": "Autism Family",
+    "category": "Autism Family Support",
+    "channelUrl": "https://www.youtube.com/@AutismFamily",
+    "description": "Resources and support for families navigating autism together.",
+    "subscribers": "25K+",
+    "featured": false
+  },
+  {
+    "name": "Khan Academy",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/khanacademy",
+    "description": "Free world-class education for anyone, anywhere. Comprehensive math lessons from basic arithmetic to calculus.",
+    "subscribers": "7M+",
+    "featured": true
+  },
+  {
+    "name": "3Blue1Brown",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+    "description": "Animated math videos that make complex concepts intuitive and beautiful.",
+    "subscribers": "5M+",
+    "featured": true
+  },
+  {
+    "name": "Numberphile",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/numberphile",
+    "description": "Videos about numbers and mathematics, featuring mathematicians and math enthusiasts.",
+    "subscribers": "4M+",
+    "featured": false
+  },
+  {
+    "name": "PatrickJMT",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/patrickJMT",
+    "description": "Making math less painful, one video at a time. Clear explanations of math concepts.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Eddie Woo",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/misterwootube",
+    "description": "Australian math teacher sharing engaging math lessons and problem-solving techniques.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Professor Leonard",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/professorleonard57",
+    "description": "Complete math courses from Pre-Algebra through Calculus III.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Crash Course",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/crashcourse",
+    "description": "Educational videos covering science, history, literature, and more in fast-paced, engaging format.",
+    "subscribers": "14M+",
+    "featured": true
+  },
+  {
+    "name": "SciShow",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/scishow",
+    "description": "Explores the unexpected in science, from the latest discoveries to everyday phenomena.",
+    "subscribers": "7M+",
+    "featured": false
+  },
+  {
+    "name": "Kurzgesagt - In a Nutshell",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/Kurzgesagt",
+    "description": "Animated videos explaining science, philosophy, and life with beautiful illustrations.",
+    "subscribers": "20M+",
+    "featured": true
+  },
+  {
+    "name": "Veritasium",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/1veritasium",
+    "description": "Engineering and science videos designed to spark curiosity and critical thinking.",
+    "subscribers": "13M+",
+    "featured": false
+  },
+  {
+    "name": "Vsauce",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/Vsauce",
+    "description": "Mind-blowing questions about science, philosophy, and human behavior.",
+    "subscribers": "17M+",
+    "featured": false
+  },
+  {
+    "name": "freeCodeCamp.org",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/user/FreeCodeCamporg",
+    "description": "Learn to code for free with full-length courses and tutorials.",
+    "subscribers": "8M+",
+    "featured": true
+  },
+  {
+    "name": "Programming with Mosh",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/user/programmingwithmosh",
+    "description": "Programming tutorials and courses for beginners and professionals.",
+    "subscribers": "3M+",
+    "featured": false
+  },
+  {
+    "name": "The Net Ninja",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/user/thenetninjauk",
+    "description": "Web development tutorials covering modern frameworks and technologies.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Derek Banas",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/user/derekbanas",
+    "description": "Programming tutorials that teach you everything you need to know in one video.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "TED Ed",
+    "category": "Social Studies",
+    "channelUrl": "https://www.youtube.com/user/TEDEducation",
+    "description": "Animated lessons on topics ranging from history and literature to psychology and science.",
+    "subscribers": "17M+",
+    "featured": true
+  },
+  {
+    "name": "National Geographic",
+    "category": "Social Studies",
+    "channelUrl": "https://www.youtube.com/user/NationalGeographic",
+    "description": "Explore the world through documentaries about nature, science, culture, and history.",
+    "subscribers": "22M+",
+    "featured": false
+  },
+  {
+    "name": "RealLifeLore",
+    "category": "Social Studies",
+    "channelUrl": "https://www.youtube.com/user/RealLifeLore",
+    "description": "Educational videos about geography, history, and interesting facts about our world.",
+    "subscribers": "7M+",
+    "featured": false
+  },
+  {
+    "name": "OverSimplified",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/user/Webzwithaz",
+    "description": "Animated history videos that make complex historical events easy to understand.",
+    "subscribers": "7M+",
+    "featured": true
+  },
+  {
+    "name": "Kings and Generals",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/user/KingsandGenerals",
+    "description": "Animated historical documentaries about battles, empires, and historical figures.",
+    "subscribers": "3M+",
+    "featured": false
+  },
+  {
+    "name": "The Armchair Historian",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/user/TheArmchairHistorian",
+    "description": "Animated history videos covering wars, politics, and historical events.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "BBC Learning English",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/bbclearningenglish",
+    "description": "Learn English with the BBC's free online course and improve your language skills.",
+    "subscribers": "5M+",
+    "featured": true
+  },
+  {
+    "name": "English with Lucy",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/lucyheadey",
+    "description": "English lessons focusing on pronunciation, vocabulary, and grammar.",
+    "subscribers": "6M+",
+    "featured": false
+  },
+  {
+    "name": "Rachel's English",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/rachelsenglish",
+    "description": "American English pronunciation and conversation practice.",
+    "subscribers": "4M+",
+    "featured": false
+  },
+  {
+    "name": "Mathantics",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/mathantics",
+    "description": "Math help and math lessons that make math easy and fun for elementary and middle school students.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "YayMath",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/yaymath",
+    "description": "Energetic and fun math lessons that make learning algebra and geometry enjoyable.",
+    "subscribers": "500K+",
+    "featured": false
+  },
+  {
+    "name": "Brightstorm",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/brightstorm",
+    "description": "Math and science video lessons for high school and college students.",
+    "subscribers": "300K+",
+    "featured": false
+  },
+  {
+    "name": "WOWmath",
+    "category": "Math",
+    "channelUrl": "https://www.youtube.com/user/WOWmath",
+    "description": "Making math wonderful with clear explanations and visual demonstrations.",
+    "subscribers": "100K+",
+    "featured": false
+  },
+  {
+    "name": "AsapScience",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/AsapSCIENCE",
+    "description": "Weekly science videos answering the questions you've always wondered about.",
+    "subscribers": "10M+",
+    "featured": false
+  },
+  {
+    "name": "Minute Physics",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/minutephysics",
+    "description": "Cool physics and science concepts explained simply in about a minute.",
+    "subscribers": "5M+",
+    "featured": false
+  },
+  {
+    "name": "Periodic Videos",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/periodicvideos",
+    "description": "Videos about every element on the periodic table and chemistry concepts.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Socratica",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/SocraticaStudios",
+    "description": "Beautiful educational videos covering math, science, and study skills.",
+    "subscribers": "800K+",
+    "featured": false
+  },
+  {
+    "name": "Codecourse",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/user/phpacademy",
+    "description": "Web development tutorials covering PHP, JavaScript, and modern frameworks.",
+    "subscribers": "300K+",
+    "featured": false
+  },
+  {
+    "name": "LearnCode.academy",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/user/learncodeacademy",
+    "description": "Web development tutorials for beginners covering HTML, CSS, JavaScript, and more.",
+    "subscribers": "800K+",
+    "featured": false
+  },
+  {
+    "name": "CS Dojo",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/user/jarekwg",
+    "description": "Programming tutorials focusing on algorithms, data structures, and career advice.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "Academind",
+    "category": "Coding",
+    "channelUrl": "https://www.youtube.com/c/Academind",
+    "description": "In-depth programming tutorials covering modern web development technologies.",
+    "subscribers": "900K+",
+    "featured": false
+  },
+  {
+    "name": "Mr.Beat's Social Studies Channel",
+    "category": "Social Studies",
+    "channelUrl": "https://www.youtube.com/user/beatmastermatt",
+    "description": "Engaging social studies content covering American history, government, and geography.",
+    "subscribers": "500K+",
+    "featured": false
+  },
+  {
+    "name": "The History Channel",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/user/HISTORY",
+    "description": "Historical documentaries and series covering major events and figures in history.",
+    "subscribers": "13M+",
+    "featured": false
+  },
+  {
+    "name": "Feature History",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/channel/UCHdluULl5c7bilx1x1TGzJQ",
+    "description": "Animated historical videos covering major events with humor and clarity.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Historia Civilis",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A",
+    "description": "Ancient history videos focusing on Roman politics and military campaigns.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "The Great War",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/user/TheGreatWar",
+    "description": "Week-by-week coverage of World War I and other historical conflicts.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Simple History",
+    "category": "History",
+    "channelUrl": "https://www.youtube.com/user/SimpleHistory",
+    "description": "Animated history videos covering wars, battles, and historical events.",
+    "subscribers": "4M+",
+    "featured": false
+  },
+  {
+    "name": "Geography Now",
+    "category": "Geography",
+    "channelUrl": "https://www.youtube.com/user/GeographyNow",
+    "description": "Educational geography videos covering every country in the world.",
+    "subscribers": "3M+",
+    "featured": true
+  },
+  {
+    "name": "Daily English Conversation",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/DailyEnglishConvers",
+    "description": "Practice English conversation skills with daily lessons and dialogues.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "JenniferESL",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/JenniferESL",
+    "description": "English lessons covering grammar, pronunciation, and conversation skills.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "MmmEnglish",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g",
+    "description": "English lessons with a focus on pronunciation and natural conversation.",
+    "subscribers": "5M+",
+    "featured": false
+  },
+  {
+    "name": "Go Natural English",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/GoNaturalEnglish",
+    "description": "Learn natural American English conversation and pronunciation.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "KidsTV123",
+    "category": "Early Learning",
+    "channelUrl": "https://www.youtube.com/user/KidsTV123",
+    "description": "Educational songs and videos for young children learning letters, numbers, and basic concepts.",
+    "subscribers": "4M+",
+    "featured": true
+  },
+  {
+    "name": "VOA Learning English",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/VOALearningEnglish",
+    "description": "News and educational content designed for English language learners.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "Fluency MC",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/FluencyMC",
+    "description": "Learn English grammar and vocabulary through rap and music.",
+    "subscribers": "300K+",
+    "featured": false
+  },
+  {
+    "name": "Crown Academy of English",
+    "category": "English Learning",
+    "channelUrl": "https://www.youtube.com/user/CrownAcademyEnglish",
+    "description": "British English lessons covering grammar, vocabulary, and pronunciation.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "PBS Eons",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA",
+    "description": "Journey through deep time to explore the history of life on Earth.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "Be Smart",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/itsokaytobesmart",
+    "description": "Science videos that help you understand how the world works.",
+    "subscribers": "4M+",
+    "featured": false
+  },
+  {
+    "name": "MinuteEarth",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/MinuteEarth",
+    "description": "Science and stories about our awesome planet in about a minute.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "The Brain Scoop",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/thebrainscoop",
+    "description": "Natural history and zoology videos from the Field Museum.",
+    "subscribers": "500K+",
+    "featured": false
+  },
+  {
+    "name": "Life Noggin",
+    "category": "Science",
+    "channelUrl": "https://www.youtube.com/user/lifenoggin",
+    "description": "Animated educational videos answering life's biggest questions.",
+    "subscribers": "3M+",
+    "featured": false
+  },
+  {
+    "name": "Art for Your Ear",
+    "category": "Arts",
+    "channelUrl": "https://www.youtube.com/user/artforyourear",
+    "description": "Art history and analysis videos exploring famous artworks and artists.",
+    "subscribers": "200K+",
+    "featured": false
+  },
+  {
+    "name": "The Art Assignment",
+    "category": "Arts",
+    "channelUrl": "https://www.youtube.com/user/theartassignment",
+    "description": "Art history and contemporary art exploration with hands-on assignments.",
+    "subscribers": "600K+",
+    "featured": true
+  },
+  {
+    "name": "Proko",
+    "category": "Arts",
+    "channelUrl": "https://www.youtube.com/user/ProkoTV",
+    "description": "Drawing and painting tutorials for artists of all skill levels.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "Music Theory Guy",
+    "category": "Music",
+    "channelUrl": "https://www.youtube.com/user/musictheoryguy",
+    "description": "Music theory lessons explained clearly for beginners and advanced students.",
+    "subscribers": "500K+",
+    "featured": false
+  },
+  {
+    "name": "Andrew Huang",
+    "category": "Music",
+    "channelUrl": "https://www.youtube.com/user/songstowearpantsto",
+    "description": "Music creation, production tips, and experimental musical content.",
+    "subscribers": "2M+",
+    "featured": true
+  },
+  {
+    "name": "PianoForAll",
+    "category": "Music",
+    "channelUrl": "https://www.youtube.com/user/pianoforall",
+    "description": "Learn to play piano with step-by-step lessons for all skill levels.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Physical Education",
+    "category": "Physical Education",
+    "channelUrl": "https://www.youtube.com/channel/UCK0i8KHpWvZmOMo_y8PdC5g",
+    "description": "PE activities, games, and exercises for students and teachers.",
+    "subscribers": "100K+",
+    "featured": false
+  },
+  {
+    "name": "GoNoodle",
+    "category": "Physical Education",
+    "channelUrl": "https://www.youtube.com/user/GoNoodle",
+    "description": "Movement and mindfulness videos to get kids active and engaged.",
+    "subscribers": "1M+",
+    "featured": true
+  },
+  {
+    "name": "Yoga with Adriene",
+    "category": "Physical Education",
+    "channelUrl": "https://www.youtube.com/user/yogawithadriene",
+    "description": "Free yoga practices for all levels, promoting physical and mental wellness.",
+    "subscribers": "12M+",
+    "featured": false
+  },
+  {
+    "name": "Nate O'Brien",
+    "category": "Life Skills",
+    "channelUrl": "https://www.youtube.com/user/NateOBrien",
+    "description": "Personal finance, productivity, and life skills for students and young adults.",
+    "subscribers": "1M+",
+    "featured": false
+  },
+  {
+    "name": "Thomas Frank",
+    "category": "Life Skills",
+    "channelUrl": "https://www.youtube.com/user/electrickeye91",
+    "description": "Study tips, productivity advice, and college success strategies.",
+    "subscribers": "3M+",
+    "featured": true
+  },
+  {
+    "name": "CrashCourse Kids",
+    "category": "Early Learning",
+    "channelUrl": "https://www.youtube.com/user/crashcoursekids",
+    "description": "Science videos designed specifically for elementary school students.",
+    "subscribers": "1M+",
+    "featured": true
+  },
+  {
+    "name": "Sesame Street",
+    "category": "Early Learning",
+    "channelUrl": "https://www.youtube.com/user/SesameStreet",
+    "description": "Educational content for preschoolers covering letters, numbers, and social skills.",
+    "subscribers": "6M+",
+    "featured": false
+  },
+  {
+    "name": "PBS Kids",
+    "category": "Early Learning",
+    "channelUrl": "https://www.youtube.com/user/pbskids",
+    "description": "Educational videos and games from PBS Kids shows for young learners.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "OT Dude",
+    "category": "Occupational Therapy",
+    "channelUrl": "https://www.youtube.com/c/OTDude",
+    "description": "Occupational therapy resources, activities, and strategies for children and adults.",
+    "subscribers": "50K+",
+    "featured": true
+  },
+  {
+    "name": "The Sensory Toolbox",
+    "category": "Occupational Therapy",
+    "channelUrl": "https://www.youtube.com/c/TheSensoryToolbox",
+    "description": "Sensory processing activities and occupational therapy ideas for kids.",
+    "subscribers": "30K+",
+    "featured": false
+  },
+  {
+    "name": "Pink Oatmeal OT",
+    "category": "Occupational Therapy",
+    "channelUrl": "https://www.youtube.com/c/PinkOatmealOT",
+    "description": "Creative occupational therapy activities and fine motor skill development.",
+    "subscribers": "25K+",
+    "featured": false
+  },
+  {
+    "name": "Therapy Insights",
+    "category": "Occupational Therapy",
+    "channelUrl": "https://www.youtube.com/c/TherapyInsights",
+    "description": "Professional development and clinical insights for occupational therapists.",
+    "subscribers": "40K+",
+    "featured": false
+  },
+  {
+    "name": "Speech and Language Kids",
+    "category": "Speech Therapy",
+    "channelUrl": "https://www.youtube.com/c/SpeechAndLanguageKids",
+    "description": "Speech therapy activities, tips, and resources for children and parents.",
+    "subscribers": "200K+",
+    "featured": true
+  },
+  {
+    "name": "Bridget - Speech Therapy",
+    "category": "Speech Therapy",
+    "channelUrl": "https://www.youtube.com/c/BridgetSpeechTherapy",
+    "description": "Speech therapy techniques and activities for speech-language pathologists and parents.",
+    "subscribers": "100K+",
+    "featured": false
+  },
+  {
+    "name": "The Speech Dynamic",
+    "category": "Speech Therapy",
+    "channelUrl": "https://www.youtube.com/c/TheSpeechDynamic",
+    "description": "Evidence-based speech therapy strategies and professional development.",
+    "subscribers": "75K+",
+    "featured": false
+  },
+  {
+    "name": "Teach Me To Talk",
+    "category": "Speech Therapy",
+    "channelUrl": "https://www.youtube.com/c/TeachMeToTalk",
+    "description": "Early language development and speech therapy tips for toddlers and preschoolers.",
+    "subscribers": "150K+",
+    "featured": true
+  },
+  {
+    "name": "Super Simple Songs - Phonics",
+    "category": "Phonics",
+    "channelUrl": "https://www.youtube.com/c/SuperSimpleSongs",
+    "description": "Phonics songs and activities to help children learn letter sounds and reading.",
+    "subscribers": "25M+",
+    "featured": true
+  },
+  {
+    "name": "Alphablocks",
+    "category": "Phonics",
+    "channelUrl": "https://www.youtube.com/c/OfficialAlphablocks",
+    "description": "Fun phonics adventures with animated letters teaching reading skills.",
+    "subscribers": "2M+",
+    "featured": true
+  },
+  {
+    "name": "Geraldine the Giraffe",
+    "category": "Phonics",
+    "channelUrl": "https://www.youtube.com/c/GeraldinetheGiraffe",
+    "description": "Phonics lessons with Geraldine teaching letter sounds and blending.",
+    "subscribers": "500K+",
+    "featured": false
+  },
+  {
+    "name": "Phonics with Miss Emma",
+    "category": "Phonics",
+    "channelUrl": "https://www.youtube.com/c/PhonicsWithMissEmma",
+    "description": "Systematic phonics instruction for early readers and struggling learners.",
+    "subscribers": "200K+",
+    "featured": false
+  },
+  {
+    "name": "Jack Hartmann Kids Music Channel",
+    "category": "Phonics",
+    "channelUrl": "https://www.youtube.com/c/JackHartmann",
+    "description": "Educational songs covering phonics, math, and literacy skills for children.",
+    "subscribers": "5M+",
+    "featured": false
+  },
+  {
+    "name": "Social Stories by Carol Gray",
+    "category": "Social Stories",
+    "channelUrl": "https://www.youtube.com/c/SocialStoriesCarolGray",
+    "description": "Official social stories created by Carol Gray for autism and social learning.",
+    "subscribers": "15K+",
+    "featured": true
+  },
+  {
+    "name": "The Autism Helper",
+    "category": "Social Stories",
+    "channelUrl": "https://www.youtube.com/c/TheAutismHelper",
+    "description": "Social stories, visual supports, and autism teaching strategies.",
+    "subscribers": "100K+",
+    "featured": true
+  },
+  {
+    "name": "Social Thinking",
+    "category": "Social Stories",
+    "channelUrl": "https://www.youtube.com/c/SocialThinking",
+    "description": "Social cognitive learning and social stories for individuals with autism.",
+    "subscribers": "50K+",
+    "featured": false
+  },
+  {
+    "name": "Autism Live",
+    "category": "Social Stories",
+    "channelUrl": "https://www.youtube.com/c/AutismLive",
+    "description": "Daily live shows about autism, social skills, and behavioral strategies.",
+    "subscribers": "80K+",
+    "featured": false
+  },
+  {
+    "name": "GoNoodle",
+    "category": "Kids Mindfulness",
+    "channelUrl": "https://www.youtube.com/user/GoNoodle",
+    "description": "Movement and mindfulness videos to get kids active and engaged.",
+    "subscribers": "1M+",
+    "featured": true
+  },
+  {
+    "name": "Cosmic Kids Yoga",
+    "category": "Kids Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/CosmicKidsYoga",
+    "description": "Yoga, mindfulness, and relaxation adventures for kids of all ages.",
+    "subscribers": "2M+",
+    "featured": true
+  },
+  {
+    "name": "Headspace for Kids",
+    "category": "Kids Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/HeadspaceKids",
+    "description": "Mindfulness and meditation exercises designed specifically for children.",
+    "subscribers": "500K+",
+    "featured": false
+  },
+  {
+    "name": "Mindful Schools",
+    "category": "Kids Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/MindfulSchools",
+    "description": "Mindfulness practices and social-emotional learning for students and educators.",
+    "subscribers": "100K+",
+    "featured": false
+  },
+  {
+    "name": "Peace Out",
+    "category": "Kids Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/PeaceOutPodcast",
+    "description": "Bedtime stories and mindfulness exercises to help children relax and sleep.",
+    "subscribers": "300K+",
+    "featured": false
+  },
+  {
+    "name": "Breathe, Think, Do with Sesame",
+    "category": "Kids Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/SesameStreet",
+    "description": "Emotional regulation and mindfulness strategies from Sesame Street.",
+    "subscribers": "6M+",
+    "featured": false
+  },
+  {
+    "name": "Smiling Mind",
+    "category": "Teen Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/SmilingMind",
+    "description": "Mindfulness and meditation programs for teenagers and young adults.",
+    "subscribers": "50K+",
+    "featured": true
+  },
+  {
+    "name": "Mindfulness for Teens",
+    "category": "Teen Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/MindfulnessforTeens",
+    "description": "Practical mindfulness techniques for stress management and emotional wellness.",
+    "subscribers": "75K+",
+    "featured": false
+  },
+  {
+    "name": "Teen Breathe",
+    "category": "Teen Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/TeenBreathe",
+    "description": "Mindfulness, meditation, and wellness content specifically for teenagers.",
+    "subscribers": "25K+",
+    "featured": false
+  },
+  {
+    "name": "Calm - Teen Meditation",
+    "category": "Teen Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/Calm",
+    "description": "Meditation and sleep stories from the popular Calm app, suitable for teens.",
+    "subscribers": "2M+",
+    "featured": false
+  },
+  {
+    "name": "The Mindfulness Teacher",
+    "category": "Teen Mindfulness",
+    "channelUrl": "https://www.youtube.com/c/TheMindfulnessTeacher",
+    "description": "Mindfulness practices for students, educators, and families.",
+    "subscribers": "40K+",
+    "featured": false
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "name": "2048",
+    "genre": "Puzzle",
+    "website": "https://play2048.co/",
+    "license": "MIT",
+    "playUrl": "https://play2048.co/",
+    "platforms": ["Web"],
+    "blurb": "Simple sliding-number puzzle by Gabriele Cirulli. Open-source and playable in the browser."
+  },
+  {
+    "name": "Hextris",
+    "genre": "Arcade",
+    "website": "https://hextris.github.io/hextris/",
+    "license": "MIT",
+    "playUrl": "https://hextris.github.io/hextris/",
+    "platforms": ["Web"],
+    "blurb": "Fast-paced Tetris-like game on a hexagon. Runs entirely in the browser."
+  },
+  {
+    "name": "KDiamond (Match-3)",
+    "genre": "Match-3",
+    "website": "https://apps.kde.org/kdiamond/",
+    "license": "GPL-2.0+",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Open-source match-3 puzzle from KDE Games — a clean, ad-free alternative to Candy Crush-style games."
+  },
+  {
+    "name": "Gweled (Match-3)",
+    "genre": "Match-3",
+    "website": "https://github.com/vasaur/gweled",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows"],
+    "blurb": "Classic Bejeweled-like open-source game. Packaged by many Linux distros; Windows builds available via community."
+  },
+  {
+    "name": "Numpty Physics (Physics Puzzles)",
+    "genre": "Physics Puzzle",
+    "website": "https://github.com/thp/numptyphysics",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Hand-drawn physics puzzle where you draw objects to solve levels — a playful, free alternative to Angry Birds-like physics challenges."
+  },
+  {
+    "name": "SuperTux",
+    "genre": "Platformer",
+    "website": "https://www.supertux.org/",
+    "license": "GPL-3.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "A classic 2D platformer starring Tux the penguin. Family-friendly and fully open source."
+  },
+  {
+    "name": "SuperTuxKart",
+    "genre": "Racing",
+    "website": "https://supertuxkart.net/",
+    "license": "GPL-3.0",
+    "platforms": ["Linux", "Windows", "macOS", "Android"],
+    "blurb": "Kart racing game with open characters and tracks. Split-screen and online play available."
+  },
+  {
+    "name": "0 A.D.",
+    "genre": "RTS",
+    "website": "https://play0ad.com/",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Historical real-time strategy game by Wildfire Games with beautiful art and active mods community."
+  },
+  {
+    "name": "Freeciv (and Freeciv-web)",
+    "genre": "4X Strategy",
+    "website": "https://www.freeciv.org/",
+    "license": "GPL-2.0",
+    "playUrl": "https://play.freeciv.org/",
+    "platforms": ["Web", "Linux", "Windows", "macOS"],
+    "blurb": "Civilization-inspired 4X strategy. Play online in the browser (Freeciv-web) or download the classic client."
+  },
+  {
+    "name": "The Battle for Wesnoth",
+    "genre": "Turn-based Strategy",
+    "website": "https://www.wesnoth.org/",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Fantasy turn-based tactics with campaigns, mods, and a vibrant community."
+  },
+  {
+    "name": "OpenTTD",
+    "genre": "Simulation",
+    "website": "https://www.openttd.org/",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Transport management sim based on Transport Tycoon Deluxe. Fully playable with open asset packs."
+  },
+  {
+    "name": "Warzone 2100",
+    "genre": "RTS",
+    "website": "https://wz2100.net/",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Open-source real-time strategy with base-building and research."
+  },
+  {
+    "name": "Hedgewars",
+    "genre": "Artillery",
+    "website": "https://www.hedgewars.org/",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows", "macOS", "iOS"],
+    "blurb": "Worms-like artillery game with hedgehogs, crazy weapons, and online play."
+  },
+  {
+    "name": "Minetest",
+    "genre": "Sandbox",
+    "website": "https://www.minetest.net/",
+    "license": "LGPL-2.1",
+    "platforms": ["Linux", "Windows", "macOS", "Android"],
+    "blurb": "Voxel sandbox engine and game — mod-friendly, lightweight, and free."
+  },
+  {
+    "name": "OpenRA",
+    "genre": "RTS",
+    "website": "https://www.openra.net/",
+    "license": "GPL-3.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Modern open-source reimplementation of classic C&C-style RTS games with new features and multiplayer."
+  },
+  {
+    "name": "Veloren",
+    "genre": "Action RPG",
+    "website": "https://veloren.net/",
+    "license": "GPL-3.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Community-driven open-world RPG inspired by cube-style adventures."
+  },
+  {
+    "name": "Lix (Lemmings-like)",
+    "genre": "Puzzle",
+    "website": "https://www.lixgame.com/",
+    "license": "ISC",
+    "platforms": ["Linux", "Windows"],
+    "blurb": "A faithful reimagining of the classic Lemmings gameplay with an active level-building scene."
+  },
+  {
+    "name": "BZFlag",
+    "genre": "Arcade Shooter",
+    "website": "https://www.bzflag.org/",
+    "license": "GPL-2.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Multiplayer 3D tank battle game, easy to pick up and great for quick matches."
+  },
+  {
+    "name": "Endless Sky",
+    "genre": "Space Adventure",
+    "website": "https://endless-sky.github.io/",
+    "license": "GPL-3.0",
+    "platforms": ["Linux", "Windows", "macOS"],
+    "blurb": "Explore the galaxy, trade, and fight in this open-source space exploration game."
+  }
+]

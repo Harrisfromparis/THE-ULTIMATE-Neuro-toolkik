@@ -1,0 +1,2524 @@
+[
+  {
+    "url": "https://autisminternetmodules.org/m/overview",
+    "finalUrl": "https://autisminternetmodules.org/m/overview",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autisticwomenandnonbinarynetwork.org/",
+    "finalUrl": "https://autisticwomenandnonbinarynetwork.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://childrensnational.org/visit/conditions-and-treatments/a/autism-spectrum-disorder",
+    "finalUrl": "https://www.childrensnational.org/get-care/conditions-and-treatments/a/autism-spectrum-disorder",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://dyspraxia.org.au/",
+    "finalUrl": "https://dyspraxia.org.au/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://dyspraxiafoundation.org.uk/",
+    "finalUrl": "https://dyspraxiafoundation.org.uk/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://education.ucsb.edu/research-faculty/labs/koegel-autism-center",
+    "finalUrl": "https://education.ucsb.edu/research-faculty/labs/koegel-autism-center",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://iacc.hhs.gov/publications/strategic-plan/",
+    "finalUrl": "https://iacc.hhs.gov/publications/strategic-plan/",
+    "ok": false,
+    "status": 403,
+    "okBrowser": false
+  },
+  {
+    "url": "https://journals.sagepub.com/home/aut",
+    "finalUrl": "https://journals.sagepub.com/home/aut",
+    "ok": false,
+    "status": 403,
+    "okBrowser": true
+  },
+  {
+    "url": "https://learn.microsoft.com/windows/accessibility/",
+    "finalUrl": "https://learn.microsoft.com/en-us/windows/accessibility/",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://medicine.yale.edu/childstudy/clinical-services/autism/",
+    "finalUrl": "https://medicine.yale.edu/childstudy/clinical-services/autism/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://neurodiversityfoundation.org/",
+    "finalUrl": "https://neurodiversityfoundation.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=de.appnotize.letmetalk",
+    "finalUrl": "https://play.google.com/store/apps/details?id=de.appnotize.letmetalk",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://raisingchildren.net.au/autism/behaviour",
+    "finalUrl": "https://raisingchildren.net.au/autism/behaviour",
+    "ok": false,
+    "status": 410,
+    "okBrowser": false
+  },
+  {
+    "url": "https://raisingchildren.net.au/autism/therapies-guide",
+    "finalUrl": "https://raisingchildren.net.au/autism/therapies-guide",
+    "ok": false,
+    "status": 410,
+    "okBrowser": false
+  },
+  {
+    "url": "https://researchautism.org/resources/for-individuals-and-families/",
+    "finalUrl": "https://researchautism.org/resources/for-individuals-and-families/",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://saltillo.com/products/touchchat",
+    "finalUrl": "https://saltillo.com/products/touchchat",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.aacap.org/",
+    "finalUrl": "https://www.aacap.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": true
+  },
+  {
+    "url": "https://www.aane.org/resources/",
+    "finalUrl": "https://www.aane.org/resources/",
+    "ok": false,
+    "status": 403,
+    "okBrowser": true
+  },
+  {
+    "url": "https://www.aimha.ie/resources/",
+    "finalUrl": "https://www.aimha.ie/resources/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.android.com/accessibility/voice-access/",
+    "finalUrl": "https://www.android.com/accessibility/voice-access/",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.ani-c.org.au/",
+    "finalUrl": "https://www.ani-c.org.au/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.aspify.org/",
+    "finalUrl": "https://www.aspify.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.aspinaction.org/resources",
+    "finalUrl": "https://www.aspinaction.org/resources",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.aspireautism.org.uk/",
+    "finalUrl": "https://www.aspireautism.org.uk/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism-alliance.org/",
+    "finalUrl": "https://www.autism-alliance.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism-awareness.com/",
+    "finalUrl": "https://www.autism-awareness.com/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism-toolkit.org/",
+    "finalUrl": "https://www.autism-toolkit.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.gr/",
+    "finalUrl": "https://www.autism.org.gr/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.hk/",
+    "finalUrl": "https://www.autism.org.hk/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.tr/",
+    "finalUrl": "https://www.autism.org.tr/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.za/associations",
+    "finalUrl": "https://www.autism.org.za/associations",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismage.com/",
+    "finalUrl": "https://www.autismage.com/",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismcyprus.com/",
+    "finalUrl": "https://www.autismcyprus.com/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme.ch/fr/",
+    "finalUrl": "https://www.autisme.ch/fr/",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme.dk/",
+    "finalUrl": "https://www.autisme.dk/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme.se/",
+    "finalUrl": "https://www.autisme.se/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismkorea.kr/",
+    "finalUrl": "https://www.autismkorea.kr/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismresourcecentre.sg/",
+    "finalUrl": "https://www.autismresourcecentre.sg/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismsociety.gr/",
+    "finalUrl": "https://www.autismsociety.gr/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismsocietyphilippines.org/",
+    "finalUrl": "https://www.autismsocietyphilippines.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismsouthafrica.org/",
+    "finalUrl": "https://www.autismsouthafrica.org/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autizmo.pl/",
+    "finalUrl": "https://www.autizmo.pl/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.boardmaker.com/",
+    "finalUrl": "https://www.boardmaker.com/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": true
+  },
+  {
+    "url": "https://www.calm.com/",
+    "finalUrl": "https://www.calm.com/",
+    "ok": false,
+    "status": 403,
+    "okBrowser": true
+  },
+  {
+    "url": "https://www.cam.ac.uk/research/centres-and-units/autism-research-trust",
+    "finalUrl": "https://www.cam.ac.uk/research/centres-and-units/autism-research-trust",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.childrenscolorado.org/conditions-and-advice/conditions-and-symptoms/a-z/",
+    "finalUrl": "https://www.childrenscolorado.org/conditions-and-advice/conditions-and-symptoms/a-z/",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.citizensinformation.ie/en/health/health-services/disability-services/autism/",
+    "finalUrl": "https://www.citizensinformation.ie/en/health/health-services/disability-services/autism/",
+    "ok": false,
+    "status": 403,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.destinationautism.org/ (Destination Autism - verify)",
+    "finalUrl": "https://www.destinationautism.org/ (Destination Autism - verify)",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.dyscalculia.org.uk/",
+    "finalUrl": "https://www.dyscalculia.org.uk/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.dyslexiaaustralia.org.au/",
+    "finalUrl": "https://www.dyslexiaaustralia.org.au/",
+    "ok": false,
+    "status": 0,
+    "error": "fetch failed",
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.eani.org.uk/parents/supporting-learning/special-educational-needs-sen/types-of-special-educational-needs/autism",
+    "finalUrl": "https://www.eani.org.uk/parents/supporting-learning/special-educational-needs-sen/types-of-special-educational-needs/autism",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.health.govt.nz/your-health",
+    "finalUrl": "https://www.health.govt.nz/your-health",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/autism",
+    "finalUrl": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/autism",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.icdl.com/what-is-floortime",
+    "finalUrl": "https://www.icdl.com/what-is-floortime",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.massgeneral.org/psychiatry/conditions-and-treatments/autism-spectrum-disorder",
+    "finalUrl": "https://www.massgeneral.org/psychiatry/conditions-and-treatments/autism-spectrum-disorder",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.mededportal.org/search/?q=autism",
+    "finalUrl": "https://www.mededportal.org/search/?q=autism",
+    "ok": false,
+    "status": 403,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/ability/",
+    "finalUrl": "https://www.microsoft.com/en-us/ability/",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/ability/employment/neurodiversity",
+    "finalUrl": "https://www.microsoft.com/en-us/ability/employment/neurodiversity",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.mountsinai.org/locations/seaver",
+    "finalUrl": "https://www.mountsinai.org/locations/seaver",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.ninds.nih.gov/health-information/disorders/autism-spectrum-disorder",
+    "finalUrl": "https://www.ninds.nih.gov/health-information/disorders/autism-spectrum-disorder",
+    "ok": false,
+    "status": 403,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.stanfordchildrens.org/en/service/autism-and-developmental-disabilities-center",
+    "finalUrl": "https://www.stanfordchildrens.org/en/services/autism-and-developmental-disabilities-center",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tandfonline.com/toc/taca20/current",
+    "finalUrl": "https://www.tandfonline.com/toc/taca20/current",
+    "ok": false,
+    "status": 403,
+    "okBrowser": true
+  },
+  {
+    "url": "https://www.texaschildrens.org/conditions/autism-spectrum-disorder",
+    "finalUrl": "https://www.texaschildrens.org/conditions/autism-spectrum-disorder",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tobiidynavox.com/support",
+    "finalUrl": "https://www.tobiidynavox.com/support",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.ucsfhealth.org/clinics/autism-center",
+    "finalUrl": "https://www.ucsfhealth.org/clinics/autism-center",
+    "ok": false,
+    "status": 404,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.wpspublish.com/spm-sensory-processing-measure",
+    "finalUrl": "https://www.wpspublish.com/spm-sensory-processing-measure",
+    "ok": false,
+    "status": 403,
+    "okBrowser": true
+  },
+  {
+    "url": "https://1800respect.org.au/sunny",
+    "finalUrl": "https://1800respect.org.au/sunny",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://ablegamers.org/",
+    "finalUrl": "https://ablegamers.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://adhdeurope.eu/",
+    "finalUrl": "https://adhdeurope.eu/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://adhduk.co.uk/",
+    "finalUrl": "https://adhduk.co.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://afirm.fpg.unc.edu/",
+    "finalUrl": "https://afirm.fpg.unc.edu/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://afirm.fpg.unc.edu/afirm-modules",
+    "finalUrl": "https://afirm.fpg.unc.edu/afirm-modules/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://apps.apple.com/app/choiceworks/id486210964",
+    "finalUrl": "https://apps.apple.com/us/app/choiceworks/id486210964",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://apps.apple.com/app/focus-keeper/id867374917",
+    "finalUrl": "https://apps.apple.com/us/app/focus-keeper-pomodoro-timer/id867374917",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://apps.apple.com/app/social-stories-creator/id588180598",
+    "finalUrl": "https://apps.apple.com/us/app/social-story-creator-library/id588180598",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://asiam.ie/",
+    "finalUrl": "https://asiam.ie/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://askjan.org/disabilities/Autism-Spectrum-Disorder.cfm",
+    "finalUrl": "https://askjan.org/disabilities/Autism-Spectrum-Disorder.cfm",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://auticon.com/",
+    "finalUrl": "https://auticon.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autism.emory.edu/",
+    "finalUrl": "https://med.emory.edu/departments/psychiatry/autism/index.html",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autism.org.au/",
+    "finalUrl": "https://autism.org.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismawarenesscentre.com/",
+    "finalUrl": "https://autismawarenesscentre.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismcenter.duke.edu/",
+    "finalUrl": "https://autismcenter.duke.edu/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismequebec.org/",
+    "finalUrl": "https://autismequebec.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismnavigator.com/",
+    "finalUrl": "https://autismnavigator.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismnovascotia.ca/",
+    "finalUrl": "https://www.autismnovascotia.ca/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismsociety.org/",
+    "finalUrl": "https://autismsociety.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismsociety.org/local-support",
+    "finalUrl": "https://autismsociety.org/local-support/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autismwales.org/en/",
+    "finalUrl": "https://neurodivergencewales.org/en/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://autisticadvocacy.org/",
+    "finalUrl": "https://autisticadvocacy.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://canchild.ca/en/diagnoses/developmental-coordination-disorder",
+    "finalUrl": "https://canchild.ca/diagnoses/developmental-coordination-disorder/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://chadd.org/",
+    "finalUrl": "https://chadd.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://childmind.org/topics/concerns/adhd/",
+    "finalUrl": "https://childmind.org/topics/adhd-attention-problems/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://childmind.org/topics/concerns/autism/",
+    "finalUrl": "https://childmind.org/topics/autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://communicationmatters.org.uk/",
+    "finalUrl": "https://communicationmatters.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://dbtcoach.com/",
+    "finalUrl": "https://www.dbtcoach.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://depts.washington.edu/uwautism/",
+    "finalUrl": "https://depts.washington.edu/uwautism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://dyscalculiaassociation.org/",
+    "finalUrl": "https://dyscalculiacenter.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://dyslexiaida.org/",
+    "finalUrl": "https://dyslexiaida.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://dyspraxia.org.nz/",
+    "finalUrl": "https://dyspraxia.org.nz/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://eric.ed.gov/?q=autism",
+    "finalUrl": "https://eric.ed.gov/?q=autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://essts.org/",
+    "finalUrl": "https://www.essts.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://getcoldturkey.com/",
+    "finalUrl": "https://getcoldturkey.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://health.ucdavis.edu/mindinstitute/",
+    "finalUrl": "https://health.ucdavis.edu/mind-institute/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://healthychildren.org/English/health-issues/conditions/Autism/Pages/default.aspx",
+    "finalUrl": "https://healthychildren.org/English/health-issues/conditions/Autism/Pages/default.aspx",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://insighttimer.com/",
+    "finalUrl": "https://insighttimer.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://kahoot.com/",
+    "finalUrl": "https://kahoot.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://kidshealth.org/",
+    "finalUrl": "https://kidshealth.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://kidshealth.org/en/parents/centers/center.html",
+    "finalUrl": "https://kidshealth.org/en/parents/centers/center.html",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://learningally.org/",
+    "finalUrl": "https://learningally.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://llamalife.co/",
+    "finalUrl": "https://llamalife.co/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://medlineplus.gov/autismspectrumdisorder.html",
+    "finalUrl": "https://medlineplus.gov/autismspectrumdisorder.html",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://meet.jit.si/",
+    "finalUrl": "https://meet.jit.si/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://mindfulpowersforkids.com/",
+    "finalUrl": "https://mindfulpowersforkids.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://mobile.va.gov/app/mindfulness-coach",
+    "finalUrl": "https://mobile.va.gov/app/mindfulness-coach",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://modelmekids.com/app/",
+    "finalUrl": "https://www.modelmekids.com/apps-for-autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://my.clevelandclinic.org/health/diseases/autism",
+    "finalUrl": "https://my.clevelandclinic.org/health/diseases/autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://neuroclastic.com/",
+    "finalUrl": "https://neuroclastic.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://neurodiversityhub.org/",
+    "finalUrl": "https://www.neurodiversityhub.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://neurodiversityhub.org/resources",
+    "finalUrl": "https://www.neurodiversityhub.org/resources",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://neurosciences.ucsd.edu/centers-programs/autism/index.html",
+    "finalUrl": "https://neurosciences.ucsd.edu/centers-programs/autism/index.html",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://open.spotify.com/show/5mtjxCVcTyDcnx8j63n8La",
+    "finalUrl": "https://open.spotify.com/show/5mtjxCVcTyDcnx8j63n8La",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://otsimo.com/en/",
+    "finalUrl": "https://otsimo.com/en/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://raisingchildren.net.au/autism",
+    "finalUrl": "https://raisingchildren.net.au/autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://rcaas.rutgers.edu/",
+    "finalUrl": "https://rcaas.rutgers.edu/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://researchautism.org/",
+    "finalUrl": "https://researchautism.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://rootd.io/",
+    "finalUrl": "https://www.rootd.io/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://saltsoftware.com/",
+    "finalUrl": "https://www.saltsoftware.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://saltsoftware.com/resources",
+    "finalUrl": "https://www.saltsoftware.com/resources",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://scholar.google.com/scholar?q=autism",
+    "finalUrl": "https://scholar.google.com/scholar?q=autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://sensoryhealth.org/",
+    "finalUrl": "https://sensoryhealth.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://sites.ed.gov/idea/",
+    "finalUrl": "https://sites.ed.gov/idea/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://sites.research.google/relate/",
+    "finalUrl": "https://sites.research.google/relate/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://sparkforautism.org/discover/",
+    "finalUrl": "https://sparkforautism.org/discover/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://specialisterne.com/",
+    "finalUrl": "https://specialisterne.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://support.apple.com/guide/iphone/use-live-captions-iph3b9a9f56c/ios",
+    "finalUrl": "https://support.apple.com/guide/iphone/welcome/ios",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://teacch.com/",
+    "finalUrl": "https://teacch.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://teacch.com/resources/",
+    "finalUrl": "https://teacch.com/resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://thearc.org/",
+    "finalUrl": "https://thearc.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://thinksmartbox.com",
+    "finalUrl": "https://thinksmartbox.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://thinksmartbox.com/product/grid-3/",
+    "finalUrl": "https://thinksmartbox.com/grid/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://tourette.org/",
+    "finalUrl": "https://tourette.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://tryhealthyminds.org/",
+    "finalUrl": "https://tryhealthyminds.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://udlguidelines.cast.org/",
+    "finalUrl": "https://udlguidelines.cast.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://uniquelyhuman.com/",
+    "finalUrl": "https://uniquelyhuman.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://vkc.vumc.org/vkc/triad/",
+    "finalUrl": "https://vkc.vumc.org/vkc/triad/home/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://voiceitt.com/",
+    "finalUrl": "https://www.voiceitt.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://worrytree.com/",
+    "finalUrl": "https://worrytree.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.aap.org/en/patient-care/autism/",
+    "finalUrl": "https://www.aap.org/en/patient-care/autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.additudemag.com/",
+    "finalUrl": "https://www.additudemag.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.adhdaustralia.org.au/",
+    "finalUrl": "https://www.adhdaustralia.org.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.adhdfoundation.org.uk/",
+    "finalUrl": "https://www.adhdfoundation.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.amaze.org.au/",
+    "finalUrl": "https://www.amaze.org.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.ambitiousaboutautism.org.uk/",
+    "finalUrl": "https://www.ambitiousaboutautism.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.android.com/accessibility/live-transcribe/",
+    "finalUrl": "https://www.android.com/accessibility/live-transcribe/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.apa.org/topics/autism-spectrum-disorder",
+    "finalUrl": "https://www.apa.org/topics/autism-spectrum-disorder",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.appliedbehavioranalysisprograms.com/",
+    "finalUrl": "https://www.appliedbehavioranalysisprograms.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.apraxiakids.org/",
+    "finalUrl": "http://ww25.apraxiakids.org/?subid1=20250817-2225-046b-8f89-5d306b37d669",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.assistiveware.com/products/keeble",
+    "finalUrl": "https://www.assistiveware.com/products/keeble",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.assistiveware.com/products/pictello",
+    "finalUrl": "https://www.assistiveware.com/products/pictello",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.assistiveware.com/products/proloquo2go",
+    "finalUrl": "https://www.assistiveware.com/products/proloquo2go",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.assistiveware.com/resources",
+    "finalUrl": "https://www.assistiveware.com/resources",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.atia.org/at-resources/",
+    "finalUrl": "https://www.atia.org/home/at-resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.aucd.org/",
+    "finalUrl": "https://www.aucd.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autcraft.com/",
+    "finalUrl": "https://www.autcraft.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism-alliance.org.uk/",
+    "finalUrl": "https://www.autism-alliance.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism-india.org/",
+    "finalUrl": "https://www.autism-india.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.ie/",
+    "finalUrl": "https://autism.ie/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.au/",
+    "finalUrl": "https://autism.org.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.my/",
+    "finalUrl": "https://www.autism.org.my/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.nz/",
+    "finalUrl": "https://www.autism.org.nz/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.sg/",
+    "finalUrl": "https://www.autism.org.sg/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.sg/living-with-autism",
+    "finalUrl": "https://www.autism.org.sg/living-with-autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.sg/resources",
+    "finalUrl": "https://www.autism.org.sg/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/",
+    "finalUrl": "https://www.autism.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/behaviour",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/behaviour",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/diagnosis",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/diagnosis",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/education",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/education",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/health",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/health",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/independent-living",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/independent-living",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/mental-health",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/mental-health",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/mental-health/anxiety",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/mental-health/anxiety",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/sensory-differences",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/sensory-differences",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/advice-and-guidance/topics/social-life/social-communication",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/topics/social-life/social-communication",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/directory",
+    "finalUrl": "https://www.autism.org.uk/autism-services-directory",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/directory/a-z",
+    "finalUrl": "https://www.autism.org.uk/directory/a-z",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/what-is-autism",
+    "finalUrl": "https://www.autism.org.uk/advice-and-guidance/what-is-autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.uk/what-we-do/our-research",
+    "finalUrl": "https://www.autism.org.uk/what-we-do/our-research",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org.za/",
+    "finalUrl": "https://www.autism.org.za/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org/",
+    "finalUrl": "https://autism.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org/diagnosis",
+    "finalUrl": "https://autism.org/webinars/diagnosis-matters/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org/resources",
+    "finalUrl": "https://autism.org/resources-on-the-gut-brain-connection-in-autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org/strategies/",
+    "finalUrl": "https://autism.org/strategies-for-addressing-challenging-behaviors/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org/treatment",
+    "finalUrl": "https://autism.org/treatment/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autism.org/what-is-autism/",
+    "finalUrl": "https://autism.org/what-is-autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismalberta.ca/",
+    "finalUrl": "https://autismalberta.ca/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismawareness.com.au/",
+    "finalUrl": "https://www.autismawareness.com.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismawarenesscentre.com/resources/",
+    "finalUrl": "https://autismawarenesscentre.com/resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismbc.ca/",
+    "finalUrl": "https://www.autismbc.ca/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismcanada.org/",
+    "finalUrl": "https://www.autismcanada.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismcanada.org/acresources",
+    "finalUrl": "https://www.autismcanada.org/acresources",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismcrc.com.au/",
+    "finalUrl": "https://www.autismcrc.com.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismcrc.com.au/knowledge-centre",
+    "finalUrl": "https://www.autismcrc.com.au/knowledge-centre",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme-france.fr/",
+    "finalUrl": "https://www.autisme-france.fr/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme.be/",
+    "finalUrl": "https://www.autisme.be/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme.ch/",
+    "finalUrl": "https://www.autisme.ch/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme.lu/",
+    "finalUrl": "https://www.autisme.lu/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisme.no/",
+    "finalUrl": "https://autismeforeningen.no/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismeducationtrust.org.uk/",
+    "finalUrl": "https://www.autismeducationtrust.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismeducationtrust.org.uk/resources/",
+    "finalUrl": "https://www.autismeducationtrust.org.uk/resources",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismempowerment.org/",
+    "finalUrl": "https://www.autismempowerment.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismempowerment.org/resources/",
+    "finalUrl": "https://www.autismempowerment.org/resource-center/resources-for-females-on-the-autism-spectrum/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismeurope.org/",
+    "finalUrl": "https://www.autismeurope.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismeurope.org/what-we-do/projects/",
+    "finalUrl": "https://www.autismeurope.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autisminternetmodules.org/",
+    "finalUrl": "https://autisminternetmodules.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismni.org/",
+    "finalUrl": "https://autismni.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismnow.org/",
+    "finalUrl": "https://autismnow.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismnz.org.nz/",
+    "finalUrl": "https://autismnz.org.nz/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismnz.org.nz/resources",
+    "finalUrl": "https://autismnz.org.nz/resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismo.it/",
+    "finalUrl": "https://www.autismo.it/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismo.org.es/",
+    "finalUrl": "https://autismo.org.es/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismontario.com/",
+    "finalUrl": "https://www.autismontario.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismontario.com/programs-services",
+    "finalUrl": "https://www.autismontario.com/programs-services",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismparentingmagazine.com/",
+    "finalUrl": "https://www.autismparentingmagazine.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismqld.com.au/",
+    "finalUrl": "https://autismqld.com.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismresearchcentre.com/",
+    "finalUrl": "https://www.autismresearchcentre.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismsa.org.au/",
+    "finalUrl": "https://autismsa.org.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismsciencefoundation.org/",
+    "finalUrl": "https://autismsciencefoundation.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismservices.ca/",
+    "finalUrl": "https://autismservices.ca/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismsociety-nc.org/",
+    "finalUrl": "https://www.autismsociety-nc.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/",
+    "finalUrl": "https://www.autismspeaks.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/advocacy",
+    "finalUrl": "https://www.autismspeaks.org/advocacy",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/autism-apps",
+    "finalUrl": "https://www.autismspeaks.org/autism-apps",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/autism-family-services",
+    "finalUrl": "https://www.autismspeaks.org/autism-family-services",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/autism-response-team-art",
+    "finalUrl": "https://www.autismspeaks.org/autism-response-team-art",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/autism-statistics-asd",
+    "finalUrl": "https://www.autismspeaks.org/autism-statistics-asd",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/autism-treatment",
+    "finalUrl": "https://www.autismspeaks.org/autism-treatment",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/resource-guide",
+    "finalUrl": "https://www.autismspeaks.org/resource-guide",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/science",
+    "finalUrl": "https://www.autismspeaks.org/science",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspeaks.org/tool-kits",
+    "finalUrl": "https://www.autismspeaks.org/tool-kits",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismspectrum.org.au/",
+    "finalUrl": "https://www.aspect.org.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismtoolbox.co.uk/",
+    "finalUrl": "https://www.autismtoolbox.co.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autismwales.org/en/",
+    "finalUrl": "https://neurodivergencewales.org/en/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autistica.org.uk/",
+    "finalUrl": "https://www.autistica.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autistica.org.uk/our-research",
+    "finalUrl": "https://www.autistica.org.uk/our-research/our-research",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.autistica.org.uk/our-research/research-projects",
+    "finalUrl": "https://www.autistica.org.uk/our-research/research-projects",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.avazapp.com",
+    "finalUrl": "https://www.avazapp.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.bbc.co.uk/programmes/p06n5b2n",
+    "finalUrl": "https://www.bbc.co.uk/programmes/p06n5b2n",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.bdadyslexia.org.uk/",
+    "finalUrl": "https://www.bdadyslexia.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.boardmakeronline.com/ (Boardmaker Online)",
+    "finalUrl": "https://www.myboardmaker.com/Login.aspx",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.bookshare.org/cms/",
+    "finalUrl": "https://www.bookshare.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.brain-power.com/",
+    "finalUrl": "https://brain-power.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.caddra.ca/",
+    "finalUrl": "https://www.caddra.ca/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.callscotland.org.uk/",
+    "finalUrl": "https://www.callscotland.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.canada.ca/en/public-health/services/diseases/autism-spectrum-disorder-asd.html",
+    "finalUrl": "https://www.canada.ca/en/public-health/services/diseases/autism-spectrum-disorder-asd.html",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cast.org/impact/universal-design-for-learning-udl",
+    "finalUrl": "https://www.cast.org/what-we-do/universal-design-for-learning/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cboard.io/",
+    "finalUrl": "https://www.cboard.io/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cdc.gov/ncbddd/adhd/index.html",
+    "finalUrl": "https://www.cdc.gov/adhd/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cdc.gov/ncbddd/autism/index.html",
+    "finalUrl": "https://www.cdc.gov/autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.childrenshospital.org/conditions/autism-spectrum-disorder",
+    "finalUrl": "https://www.childrenshospital.org/conditions/autism-spectrum-disorders",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.childrenshospital.org/programs/autism-spectrum-center",
+    "finalUrl": "https://www.childrenshospital.org/programs/autism-spectrum-center",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.chop.edu/conditions-diseases/autism-spectrum-disorder",
+    "finalUrl": "https://www.chop.edu/conditions-diseases/autism-spectrum-disorder-in-children",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cincinnatichildrens.org/health/a/autism",
+    "finalUrl": "https://www.cincinnatichildrens.org/health/a/autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cochrane.org/evidence",
+    "finalUrl": "https://www.cochrane.org/evidence",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.communicationmatters.org.uk/resources/",
+    "finalUrl": "https://www.communicationmatters.org.uk/resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cricksoft.com/uk/clicker",
+    "finalUrl": "https://cricksoft.com/clicker/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.cricksoft.com/uk/clicker/resources",
+    "finalUrl": "https://cricksoft.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.dyscalculia.org/",
+    "finalUrl": "https://www.dyscalculia.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.dyslexiacanada.org/",
+    "finalUrl": "https://dyslexiacanada.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.dyslexiafoundation.org.nz/",
+    "finalUrl": "https://dfnz.org.nz/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.dyslexiafoundation.org/",
+    "finalUrl": "https://dyslexiafoundation.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.exceptionalmindsstudio.org/",
+    "finalUrl": "https://exceptional-minds.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.forestapp.cc/",
+    "finalUrl": "https://www.forestapp.cc/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.frontiersin.org/",
+    "finalUrl": "https://www.frontiersin.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.goodkarmaapplications.com/first-then-visual-schedule.html",
+    "finalUrl": "https://www.goodkarmaapplications.com/first-then-visual-schedule.html",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.gov.uk/government/organisations/department-for-education",
+    "finalUrl": "https://www.gov.uk/government/organisations/department-for-education",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.gov.uk/search/all?keywords=autism",
+    "finalUrl": "https://www.gov.uk/search/all?keywords=autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.headspace.com/",
+    "finalUrl": "https://www.headspace.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.health.gov.au/topics/disability",
+    "finalUrl": "https://www.health.gov.au/topics/disability-and-carers",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.health.govt.nz/",
+    "finalUrl": "https://www.health.govt.nz/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.healthdirect.gov.au/autism",
+    "finalUrl": "https://www.healthdirect.gov.au/autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.healthline.com/health/autism",
+    "finalUrl": "https://www.healthline.com/health/autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.herts.ac.uk/kaspar",
+    "finalUrl": "https://www.herts.ac.uk/kaspar",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.hse.ie/eng/services/list/4/disability/",
+    "finalUrl": "https://www.hse.ie/eng/services/list/4/disability/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.icdl.com/",
+    "finalUrl": "https://www.icdl.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.isaac-online.org",
+    "finalUrl": "https://isaac-online.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.jkp.com/uk/mind-reading-1.html",
+    "finalUrl": "https://uk.jkp.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.kennedykrieger.org/patient-care/centers-and-programs/center-for-autism-services-science-and-innovation",
+    "finalUrl": "https://www.kennedykrieger.org/patient-care/centers-and-programs/center-for-autism-services-science-and-innovation",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.luriechildrens.org/en/specialties-conditions/autism-spectrum-disorder/",
+    "finalUrl": "https://www.luriechildrens.org/en/specialties-conditions/autism-spectrum-disorder/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder",
+    "finalUrl": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder/symptoms-causes",
+    "finalUrl": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder/symptoms-causes",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.modelmekids.com/app/",
+    "finalUrl": "https://www.modelmekids.com/apps-for-autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.mycoughdrop.com/",
+    "finalUrl": "https://www.mycoughdrop.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nationalautismcenter.org/",
+    "finalUrl": "https://nationalautismcenter.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nationwidechildrens.org/conditions/autism-spectrum-disorder",
+    "finalUrl": "https://www.nationwidechildrens.org/conditions/autism-spectrum-disorder",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/?term=autism",
+    "finalUrl": "https://www.ncbi.nlm.nih.gov/pmc/?term=autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.neuroclastic.com/",
+    "finalUrl": "https://neuroclastic.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.neurodiversitypodcast.com/",
+    "finalUrl": "https://neurodiversitypodcast.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.neurodiversityweek.com/",
+    "finalUrl": "https://www.neurodiversityweek.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nhs.uk/conditions/autism/",
+    "finalUrl": "https://www.nhs.uk/conditions/autism/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nice.org.uk/guidance/cg142",
+    "finalUrl": "https://www.nice.org.uk/guidance/cg142",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nice.org.uk/guidance/cg170",
+    "finalUrl": "https://www.nice.org.uk/guidance/cg170",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nichd.nih.gov/health/topics/autism",
+    "finalUrl": "https://www.nichd.nih.gov/health/topics/autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nidcd.nih.gov/health",
+    "finalUrl": "https://www.nidcd.nih.gov/health",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd",
+    "finalUrl": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd",
+    "finalUrl": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.nuance.com/dragon.html",
+    "finalUrl": "https://www.nuance.com/dragon.html",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.positivelyautistic.com/",
+    "finalUrl": "https://positivelyautistic.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.prc-saltillo.com/products/lamp-words-for-life",
+    "finalUrl": "https://www.prc-saltillo.com/products/lamp-words-for-life",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.prentrom.com/support",
+    "finalUrl": "https://www.prentrom.com/support",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.psychologytoday.com/us/basics/autism",
+    "finalUrl": "https://www.psychologytoday.com/us/basics/autism",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.research.chop.edu/center-for-autism-research",
+    "finalUrl": "https://www.research.chop.edu/car",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.robokind.com/",
+    "finalUrl": "https://www.robokind.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/autism",
+    "finalUrl": "https://www.sciencedirect.com/topics/medicine-and-dentistry/pervasive-developmental-disorder",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.scottishautism.org/",
+    "finalUrl": "https://www.scottishautism.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.seattlechildrens.org/clinics/autism-center/",
+    "finalUrl": "https://www.seattlechildrens.org/clinics/autism-center/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.seattlechildrens.org/clinics/autism-center/patient-family-resources/",
+    "finalUrl": "https://www.seattlechildrens.org/clinics/autism-center/patient-family-resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.semel.ucla.edu/initiatives/ucla-center-for-autism-research-and-treatment",
+    "finalUrl": "https://www.semel.ucla.edu/initiatives/ucla-center-for-autism-research-and-treatment/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.setbc.org/resources/",
+    "finalUrl": "https://www.setbc.org/resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.sfari.org/funding/",
+    "finalUrl": "https://www.sfari.org/funding-opportunities/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.smilingmind.com.au/",
+    "finalUrl": "https://www.smilingmind.com.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.socialthinking.com/",
+    "finalUrl": "https://www.socialthinking.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.socialthinking.com/Products/Superflex-Products",
+    "finalUrl": "https://www.socialthinking.com/products/superflex-products",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.speakforyourself.org/",
+    "finalUrl": "https://speakforyourself.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.specialeffect.org.uk/",
+    "finalUrl": "https://www.specialeffect.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.specialisterne.com/",
+    "finalUrl": "https://specialisterne.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.spectrumnews.org/",
+    "finalUrl": "https://www.thetransmitter.org/spectrum/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.stutteringhelp.org/",
+    "finalUrl": "https://www.stutteringhelp.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.talkingmats.com/",
+    "finalUrl": "https://www.talkingmats.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.talkingmats.com/resources/",
+    "finalUrl": "https://www.talkingmats.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.theautismcommunityinaction.org/",
+    "finalUrl": "https://www.theautismcommunityinaction.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.theautismcommunityinaction.org/resources/",
+    "finalUrl": "https://www.theautismcommunityinaction.org/resources/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.thinkingautism.org.uk/",
+    "finalUrl": "https://www.thinkingautism.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tiimo.dk/",
+    "finalUrl": "https://www.tiimoapp.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.timetimer.com/",
+    "finalUrl": "https://www.timetimer.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tobiidynavox.com/",
+    "finalUrl": "https://www.tobiidynavox.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tourette.ca/",
+    "finalUrl": "https://tourette.ca/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tourette.org.au/",
+    "finalUrl": "https://www.tourette.org.au/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tourettes-action.org.uk/",
+    "finalUrl": "https://www.tourettes-action.org.uk/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.tourettes.org.nz/",
+    "finalUrl": "https://www.tourettes.org.nz/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations",
+    "finalUrl": "https://www.uclahealth.org/uclamindful/free-guided-meditations",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.understood.org/",
+    "finalUrl": "https://www.understood.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.understood.org/en/topics/learning-thinking-differences",
+    "finalUrl": "https://www.understood.org/en/topics/learning-thinking-differences",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.unicef.org/",
+    "finalUrl": "https://www.unicef.org/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.verywellhealth.com/autism-4014748",
+    "finalUrl": "https://www.verywellhealth.com/celiac-disease-overview-4581991",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.voicedream.com/",
+    "finalUrl": "https://www.voicedream.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.webmd.com/brain/autism/default.htm",
+    "finalUrl": "https://www.webmd.com/brain/autism/default.htm",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.who.int/health-topics/mental-health#tab=tab_1",
+    "finalUrl": "https://www.who.int/health-topics/mental-health",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders",
+    "finalUrl": "https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.widgit.com/resources/index.htm",
+    "finalUrl": "https://www.widgit.com/resources/index.htm",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.youtube.com/@autismfromtheInside",
+    "finalUrl": "https://www.youtube.com/@autismfromtheInside?cbrd=1&ucbcb=1",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dJ4FK-ars8M",
+    "finalUrl": "https://www.youtube.com/watch?v=dJ4FK-ars8M",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hwaaphuStxY",
+    "finalUrl": "https://www.youtube.com/watch?v=hwaaphuStxY",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SgqZY0JQgBU",
+    "finalUrl": "https://www.youtube.com/watch?v=SgqZY0JQgBU",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tEBsTX2OVgI",
+    "finalUrl": "https://www.youtube.com/watch?v=tEBsTX2OVgI",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  },
+  {
+    "url": "https://www.zonesofregulation.com",
+    "finalUrl": "https://zonesofregulation.com/",
+    "ok": true,
+    "status": 200,
+    "okBrowser": false
+  }
+]
