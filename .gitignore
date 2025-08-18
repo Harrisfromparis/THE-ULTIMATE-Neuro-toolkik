@@ -1,1 +1,13 @@
 node_modules
+.next
+out
+.vercel
+
+# Env files
+.env
+.env.*
+
+# Generated link-check artifacts
+tools/link-check-report.json
+tools/link-check-report.csv
+public/link-health.json

@@ -132,6 +132,7 @@ function parseArgs(argv) {
 (async () => {
   const argv = parseArgs(process.argv.slice(2));
   const isFast = argv.flags.has('fast');
+  const noFail = argv.flags.has('no-fail');
   const limitArg = argv.values.limit ? parseInt(argv.values.limit, 10) : undefined;
   const onlyNew = argv.flags.has('only-new');
   const timeoutArg = argv.values.timeout ? parseInt(argv.values.timeout, 10) : undefined;
@@ -233,7 +234,9 @@ function parseArgs(argv) {
   if (bad.length) {
     console.log(`\nBroken or unreachable (${bad.length}):`);
     bad.forEach((b) => console.log(`- [${b.status}] ${b.url} ${b.error ? '— ' + b.error : ''}`));
-    process.exitCode = 1;
+    if (!noFail) {
+      process.exitCode = 1;
+    }
   } else {
     console.log('\nAll links look OK.');
   }

@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-  "prebuild": "npm run check:links",
+  "prebuild": "node tools/prebuild.js",
   "start": "next start",
   "import:csv": "node tools/import-from-csv.js tools/programs-template.csv > data/programs-extra.json",
   "import:urls": "node tools/import-from-urls.js tools/urls.txt",
