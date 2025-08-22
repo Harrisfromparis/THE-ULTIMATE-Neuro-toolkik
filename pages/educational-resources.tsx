@@ -2,13 +2,13 @@ import Head from 'next/head';
 
 export default function EducationalResourcesPage() {
   return (
-    <div className="min-h-screen bg-secondary">
+    <div className="min-h-screen" style={{backgroundColor: '#f0fffe'}}>
       <Head>
         <title>Educational Resources A-Z | Irish Educational System Guide</title>
         <meta name="description" content="Comprehensive guide to Irish educational resources, supports, applications, and entitlements for autism and special needs education." />
       </Head>
       
-      <header className="bg-gradient-to-r from-green-500 via-blue-600 to-purple-600 p-8 text-center">
+      <header className="p-8 text-center" style={{backgroundColor: '#7dd3c0'}}>
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Educational Resources A-Z</h1>
         <p className="text-white/90 text-lg max-w-4xl mx-auto">
           Complete guide to Irish educational provision, resources, applications, and supports for autism and special needs education - everything parents, caregivers, teachers, and principals need to know.
@@ -21,7 +21,7 @@ export default function EducationalResourcesPage() {
         <section className="bg-white rounded-lg p-6 mb-8 shadow-lg">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">🔍 Quick Navigation</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3">
-            {['Applications', 'Autism Units', 'Curriculum', 'DARE', 'Exemptions', 'Funding', 'Grants', 'IEPs', 'JCT', 'Learning Support', 'Miltown Hub', 'NCSE', 'PLU', 'Resources', 'SEN', 'Transitions', 'Universities', 'Zones'].map((item) => (
+            {['Applications', 'Autism Units', 'Curriculum', 'DARE', 'Exemptions', 'Funding', 'Grants', 'IEP', 'JCT', 'Learning Support', 'Miltown Hub', 'NCSE', 'PLU', 'Resources', 'SEN', 'Transitions', 'Universities', 'Zones'].map((item) => (
               <a key={item} href={`#${item.toLowerCase()}`} 
                  className="bg-blue-100 hover:bg-blue-200 text-blue-800 px-3 py-2 rounded text-center text-sm font-medium transition-colors">
                 {item}
@@ -82,13 +82,13 @@ export default function EducationalResourcesPage() {
           </div>
         </section>
 
-        {/* Curriculum & Learning Support */}
-        <section id="curriculum" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
+  {/* Curriculum & Learning Support */}
+  <section id="curriculum" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
           <h2 className="text-3xl font-bold text-blue-600 mb-6">📚 Curriculum & Learning Support</h2>
           
           <div className="grid gap-6 md:grid-cols-2">
             <div className="bg-blue-50 p-6 rounded-lg">
-              <h3 className="text-xl font-semibold text-blue-800 mb-3">Curriculum.ie Resources</h3>
+              <h3 id="iep" className="text-xl font-semibold text-blue-800 mb-3">Curriculum.ie Resources</h3>
               <ul className="text-gray-700 space-y-2 mb-4">
                 <li>• Primary curriculum guidelines</li>
                 <li>• Junior cycle specifications</li>
@@ -425,7 +425,7 @@ export default function EducationalResourcesPage() {
             </div>
           </div>
 
-          <div className="bg-pink-100 p-6 rounded-lg mt-6">
+          <div id="zones" className="bg-pink-100 p-6 rounded-lg mt-6">
             <h3 className="text-xl font-semibold text-pink-800 mb-3">🎯 Zones of Regulation</h3>
             <div className="grid gap-4 md:grid-cols-4">
               <div className="bg-blue-100 p-4 rounded border-l-4 border-blue-500">
@@ -530,8 +530,8 @@ export default function EducationalResourcesPage() {
           </div>
         </section>
 
-        {/* A-Z Quick Reference */}
-        <section className="bg-gradient-to-r from-green-500 via-blue-600 to-purple-600 rounded-lg p-8 text-white">
+  {/* A-Z Quick Reference */}
+  <section id="glossary" className="bg-gradient-to-r from-green-500 via-blue-600 to-purple-600 rounded-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6 text-center">📖 A-Z Quick Reference Guide</h2>
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3 text-sm">
             <div className="bg-white/10 p-4 rounded backdrop-blur-sm">

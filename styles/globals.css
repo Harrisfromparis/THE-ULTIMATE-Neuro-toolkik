@@ -13,56 +13,16 @@ html {
 }
 
 body {
+  width: 100%;
+  font-family: 'Maven Pro', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  color: #222222;
+  line-height: 2em;
   margin: 0;
   padding: 0;
-  background-color: #1f2937;
+  background-color: #ffffff;
   position: relative;
-}
-
-body::before,
-body::after {
-  content: '';
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  width: 80px;
-  z-index: 1;
-  background-image: 
-    radial-gradient(circle at 40px 60px, transparent 18px, #00e5ff 19px, #00e5ff 22px, transparent 23px),
-    radial-gradient(circle at 20px 140px, transparent 10px, #00e5ff 11px, #00e5ff 14px, transparent 15px),
-    radial-gradient(circle at 60px 140px, transparent 10px, #00e5ff 11px, #00e5ff 14px, transparent 15px),
-    radial-gradient(circle at 25px 165px, transparent 8px, #00e5ff 9px, #00e5ff 12px, transparent 13px),
-    radial-gradient(circle at 55px 165px, transparent 8px, #00e5ff 9px, #00e5ff 12px, transparent 13px),
-    radial-gradient(circle at 30px 250px, transparent 18px, #ff6b35 19px, #ff6b35 22px, transparent 23px),
-    radial-gradient(circle at 15px 330px, transparent 10px, #ff6b35 11px, #ff6b35 14px, transparent 15px),
-    radial-gradient(circle at 65px 330px, transparent 10px, #ff6b35 11px, #ff6b35 14px, transparent 15px),
-    radial-gradient(circle at 20px 355px, transparent 8px, #ff6b35 9px, #ff6b35 12px, transparent 13px),
-    radial-gradient(circle at 60px 355px, transparent 8px, #ff6b35 9px, #ff6b35 12px, transparent 13px);
-  background-repeat: repeat-y;
-  background-size: 80px 400px;
-  opacity: 0.7;
-  animation: pawFloat 6s ease-in-out infinite;
-  filter: drop-shadow(0 0 8px #00e5ff) drop-shadow(0 0 4px #ff6b35);
-}
-
-body::before {
-  left: 0;
-}
-
-body::after {
-  right: 0;
-  animation-delay: 2s;
-}
-
-@keyframes pawFloat {
-  0%, 100% { 
-    transform: translateY(0px);
-    opacity: 0.7;
-  }
-  50% { 
-    transform: translateY(-25px);
-    opacity: 0.9;
-  }
 }
 
 .logo {
@@ -110,24 +70,4 @@ body::after {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #7bb3e0;
-}
-
-/* Subtle wagging tail accent near the logo */
-.tail-wag {
-  position: absolute;
-  right: -12px;
-  bottom: 6px;
-  width: 22px;
-  height: 22px;
-  border-top-right-radius: 22px;
-  border-bottom-right-radius: 22px;
-  background: radial-gradient(ellipse at center, #8b5e34 0%, #6b4423 70%);
-  transform-origin: left center;
-  animation: wag 1.5s ease-in-out infinite;
-  opacity: 0.9;
-}
-
-@keyframes wag {
-  0%, 100% { transform: rotate(12deg); }
-  50% { transform: rotate(-10deg); }
 }

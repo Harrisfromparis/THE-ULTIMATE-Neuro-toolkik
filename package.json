@@ -5,11 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-  "prebuild": "node tools/prebuild.js",
-  "start": "next start",
+    "prebuild": "node tools/prebuild.js",
+    "start": "next start",
   "import:csv": "node tools/import-from-csv.js tools/programs-template.csv > data/programs-extra.json",
   "import:urls": "node tools/import-from-urls.js tools/urls.txt",
   "export:csv": "node tools/export/programs-to-csv.js > tools/programs-export.csv",
+  "export:links": "node tools/export/extract-links.js",
+  "export:embed": "node tools/export/generate-embed-html.js",
+  "export:search-embed": "node tools/export/generate-search-embed-html.js",
   "check:links": "node tools/check-links.js",
   "check:links:fast": "node tools/check-links.js --fast",
   "check:links:new": "node tools/check-links.js --fast --only-new"

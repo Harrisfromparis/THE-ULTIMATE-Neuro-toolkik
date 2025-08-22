@@ -35,15 +35,15 @@ export default function StudiesPage() {
   }, {});
 
   return (
-    <main className="min-h-screen bg-secondary p-6">
+    <main className="min-h-screen p-6" style={{backgroundColor: '#f0fffe'}}>
       <Head>
         <title>Recent Studies (2024–2025) | Autism and Me</title>
         <meta name="description" content="Curated global studies on neurodiversity, autism, belonging, and education (2024–2025)." />
       </Head>
       <div className="max-w-5xl mx-auto">
-        <header className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-primary mb-2">Recent Studies (2024–2025)</h1>
-          <p className="text-textSecondary">Neurodiversity, autism, learning needs, belonging, and education — organized by region.</p>
+        <header className="text-center mb-8 rounded-lg p-8" style={{backgroundColor: '#7dd3c0'}}>
+          <h1 className="text-4xl font-bold text-white mb-2">Recent Studies (2024–2025)</h1>
+          <p className="text-white/90">Neurodiversity, autism, learning needs, belonging, and education — organized by region.</p>
         </header>
 
         {regionsOrder.map((region) => (

@@ -14,9 +14,13 @@ function run(cmd, args, opts = {}) {
   return proc.status ?? proc.signal ?? 0;
 }
 
+// Always ensure exports are up to date (best-effort, non-fatal)
+run('node', ['tools/export/extract-links.js']);
+run('node', ['tools/export/build-search-index.js']);
+
 if (isCI) {
   // Fast, best-effort: don’t fail the build
-  const code = run('node', ['tools/check-links.js', '--fast', '--no-fail']);
+  run('node', ['tools/check-links.js', '--fast', '--no-fail']);
   process.exit(0);
 } else {
   // Local development: allow failures to surface

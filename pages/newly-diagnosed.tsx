@@ -26,8 +26,8 @@ export default function NewlyDiagnosedPage() {
           </p>
         </section>
 
-        {/* Educational Support */}
-        <section className="bg-white rounded-lg p-8 mb-8 shadow-lg">
+  {/* Educational Support */}
+  <section id="education" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
           <h2 className="text-2xl font-bold text-cyan-600 mb-6">🎓 Educational Support</h2>
           <div className="grid gap-6 md:grid-cols-2">
             <div className="bg-cyan-50 p-6 rounded-lg">
@@ -39,7 +39,7 @@ export default function NewlyDiagnosedPage() {
                 <li>• Transition planning and support</li>
               </ul>
             </div>
-            <div className="bg-cyan-50 p-6 rounded-lg">
+            <div id="iep" className="bg-cyan-50 p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-cyan-800 mb-3">Individual Education Plan (IEP)</h3>
               <p className="text-gray-700 mb-3">Tailored educational plans based on assessment recommendations.</p>
               <ul className="text-gray-700 space-y-1">
@@ -51,11 +51,11 @@ export default function NewlyDiagnosedPage() {
           </div>
         </section>
 
-        {/* Therapeutic Interventions */}
-        <section className="bg-white rounded-lg p-8 mb-8 shadow-lg">
+  {/* Therapeutic Interventions */}
+  <section id="therapies" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
           <h2 className="text-2xl font-bold text-purple-600 mb-6">🩺 Therapeutic Interventions</h2>
           <div className="grid gap-6 md:grid-cols-3">
-            <div className="bg-purple-50 p-6 rounded-lg">
+            <div id="ot" className="bg-purple-50 p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-purple-800 mb-3">Occupational Therapy (OT)</h3>
               <p className="text-gray-700 mb-3">Supports for daily living skills and sensory needs.</p>
               <ul className="text-gray-700 space-y-1 text-sm">
@@ -69,7 +69,7 @@ export default function NewlyDiagnosedPage() {
                 Find Private OT
               </a>
             </div>
-            <div className="bg-purple-50 p-6 rounded-lg">
+            <div id="speech" className="bg-purple-50 p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-purple-800 mb-3">Speech & Language Therapy</h3>
               <p className="text-gray-700 mb-3">Communication skills and PECS implementation.</p>
               <ul className="text-gray-700 space-y-1 text-sm">
@@ -83,7 +83,7 @@ export default function NewlyDiagnosedPage() {
                 Find Private SLT
               </a>
             </div>
-            <div className="bg-purple-50 p-6 rounded-lg">
+            <div id="aba" className="bg-purple-50 p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-purple-800 mb-3">Applied Behavior Analysis (ABA)</h3>
               <p className="text-gray-700 mb-3">Develops flexible processing and resilience.</p>
               <ul className="text-gray-700 space-y-1 text-sm">
@@ -96,8 +96,8 @@ export default function NewlyDiagnosedPage() {
           </div>
         </section>
 
-        {/* Social Skills & Movement Support */}
-        <section className="bg-white rounded-lg p-8 mb-8 shadow-lg">
+  {/* Social Skills & Movement Support */}
+  <section id="social-movement" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
           <h2 className="text-2xl font-bold text-orange-600 mb-6">🤝 Social Skills & Movement Support</h2>
           <div className="grid gap-6 md:grid-cols-2">
             <div className="bg-orange-50 p-6 rounded-lg">
@@ -121,8 +121,8 @@ export default function NewlyDiagnosedPage() {
           </div>
         </section>
 
-        {/* Health & Wellness */}
-        <section className="bg-white rounded-lg p-8 mb-8 shadow-lg">
+  {/* Health & Wellness */}
+  <section id="health" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
           <h2 className="text-2xl font-bold text-green-600 mb-6">🏥 Health & Wellness</h2>
           <div className="grid gap-6 md:grid-cols-2">
             <div className="bg-green-50 p-6 rounded-lg">
@@ -146,8 +146,8 @@ export default function NewlyDiagnosedPage() {
           </div>
         </section>
 
-        {/* Financial Support */}
-        <section className="bg-white rounded-lg p-8 mb-8 shadow-lg">
+  {/* Financial Support */}
+  <section id="funding" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
           <h2 className="text-2xl font-bold text-blue-600 mb-6">💰 Funding & Financial Support</h2>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
             <div className="bg-blue-50 p-6 rounded-lg">
@@ -185,8 +185,8 @@ export default function NewlyDiagnosedPage() {
           </div>
         </section>
 
-        {/* Special Resources */}
-        <section className="bg-white rounded-lg p-8 mb-8 shadow-lg">
+  {/* Special Resources */}
+  <section id="programs" className="bg-white rounded-lg p-8 mb-8 shadow-lg">
           <h2 className="text-2xl font-bold text-red-600 mb-6">🎯 Special Programs & Resources</h2>
           <div className="grid gap-6 md:grid-cols-3">
             <div className="bg-red-50 p-6 rounded-lg">
@@ -222,8 +222,8 @@ export default function NewlyDiagnosedPage() {
           </div>
         </section>
 
-        {/* Action Steps */}
-        <section className="bg-gradient-to-r from-cyan-500 to-purple-600 rounded-lg p-8 text-white">
+  {/* Action Steps */}
+  <section id="next-steps" className="bg-gradient-to-r from-cyan-500 to-purple-600 rounded-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6 text-center">🎯 Next Steps to Take</h2>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             <div className="bg-white/10 p-6 rounded-lg backdrop-blur-sm">
